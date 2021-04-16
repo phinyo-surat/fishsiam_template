@@ -4370,7 +4370,7 @@ input[type="checkbox"]:checked + label:before {
 	color:#484848;
 	font-size:18px;
 	font-weight:bold;
-	font-family:'Open Sans';
+	font-family:'Kanit';
 	margin-bottom:3px;
 }
 
@@ -4639,7 +4639,7 @@ input[type="checkbox"]:checked + label:before {
 	color:#919191;
 	font-size:20px;
 	font-weight:300;
-	font-family:'Nunito';
+	font-family:'Kanit';
 	cursor:pointer;
 	padding:14px 30px 14px 26px;
 	position:relative;
@@ -4851,7 +4851,7 @@ input[type="checkbox"]:checked + label:before {
 	margin-bottom:21px;
 	color:#484848;
 	font-weight:bold;
-	font-family:'Open Sans';
+	font-family:'Kanit';
 	font-size:18px;
 }
 
@@ -4876,7 +4876,7 @@ input[type="checkbox"]:checked + label:before {
 	font-size:18px;
 	font-weight:bold;
 	margin-bottom:30px;
-	font-family:'Open Sans';
+	font-family:'Kanit';
 }
 
 .tecnical-specs table {
