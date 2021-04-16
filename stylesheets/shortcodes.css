@@ -5072,7 +5072,7 @@ input[type="checkbox"]:checked + label:before {
 	text-align:center;
 	background-color:#f92400;
 	border-radius:30px;
-	font-family:'Open Sans';
+	font-family:'Kanit';
 	font-weight:400;
 }
 
