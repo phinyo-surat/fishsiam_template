@@ -939,12 +939,12 @@
 	height:43px;
 	line-height:44px;
 	border-radius:30px;
-	background-color:#f92400;
+	background-color:orange;
 	color:#fff;
-	margin-top:25px;
+	/*margin-top:25px;*/
 	font-size:14px;
-	margin-bottom:14px;
-	text-align:left;
+	/*margin-bottom:14px;*/
+	text-align:center;
 	padding:0 20px 0 41px;
 }
 
