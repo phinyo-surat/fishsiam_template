@@ -4416,7 +4416,7 @@ input[type="checkbox"]:checked + label:before {
 }
 
 .product-detail .footer-detail {
-	margin-top:30px;
+	margin-top:3px;
 }
 
 .product-detail .footer-detail .social-single {
@@ -4562,9 +4562,26 @@ input[type="checkbox"]:checked + label:before {
 	color:#484848;
 }
 
+.reviewed .status-product-gap {
+	float:right;
+	padding-top:12px;
+	color:#484848;
+}
+
 .reviewed .status-product span {
 	color:#fff;
 	background-color:#f92400;
+	height:24px;
+	padding:0 15px;
+	display:inline-block;
+	line-height:24px;
+	border-radius:15px;
+	margin-left:15px;
+}
+
+.reviewed .status-product-gap span {
+	color:#fff;
+	background-color:#5cb85c;
 	height:24px;
 	padding:0 15px;
 	display:inline-block;
@@ -6306,7 +6323,24 @@ table.product thead tr th:last-child {
 	margin-top:-5px;
 }
 
+.table-wishlist tbody tr td > div.status-product-gap,
+.table-wishlist tbody tr td > div.add-cart {
+	margin-top:-5px;
+}
+
 .table-wishlist tbody tr td > div.status-product span {
+	padding:0 17px;
+	height:25px;
+	line-height:25px;
+	color:#fff;
+	background-color:#f92400;
+	font-size:12px;
+	font-weight:600;
+	border-radius:15px;
+	display:inline-block;
+}
+
+.table-wishlist tbody tr td > div.status-product-gap span {
 	padding:0 17px;
 	height:25px;
 	line-height:25px;
