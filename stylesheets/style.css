@@ -2192,7 +2192,7 @@ ul.menu li.column-1 .submenu > li > a i {
 /* Main Blog
 -------------------------------------------------------------- */
 .main-blog {
-	margin-top:30px;
+	margin-top:10px;
 }
 
 /* Sidebar */
@@ -3389,7 +3389,3 @@ ol.comment-list li.comment .comment-text .comment-content p {
 	}
 
 }
-
-
-
-
