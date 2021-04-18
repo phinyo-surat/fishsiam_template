@@ -22,6 +22,7 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 
         <link rel="shortcut icon" href="favicon/favicon.png">
+        <link href="stylesheets/dashboard.css" rel="stylesheet" />
 
 
 
@@ -478,83 +479,90 @@
         </section><!-- /.flat-breadcrumb -->
 
             
-
-
-       <section class="flat-account background">
+         <section class="flat-account background">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="form-login">
-                            <div class="title">
-                                <h3>เข้าสู่ระบบ</h3>
+                        <div class="row">
+                            <div class="col-12">
+                                <form  method="post" class="card">
+                                    <div class="card-header">
+                                        <h3 class="card-title">ลงทะเบียนสมาชิกใหม่</h3>
+                                    </div>
+
+                                    <div class="card-body">
+                                        <div class="row">
+
+                                             <div class="col-md-12">
+                                                <div class="form-group">
+                                                    <label class="form-label">ชื่อผู้ใช้งาน</label>
+                                                    <input type="text" class="form-control" name="" placeholder="ชื่อผู้ใช้งาน">
+                                                </div>
+
+
+                                             </div>
+                                    <div class="col-md-6 col-lg-6">
+                                                <div class="form-group">
+                                                    <label class="form-label">ชื่อ</label>
+                                                    <input type="text" class="form-control" name="example-text-input" placeholder="ชื่อ">
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="form-label">อีเมล</label>
+                                                    <input type="email" class="form-control" name="" placeholder="อีเมล">
+                                                </div>
+
+                                                <div class="form-group">
+                                                    <label class="form-label">อีเมล</label>
+                                                    <input class="form-control fc-datepicker" placeholder="MM/DD/YYYY" type="text">
+                                                </div>
+
+
+
+                                               
+                                              
+
+                                            </div> 
+                                            
+                                            <div class="col-md-6 col-lg-6">
+                                                 <div class="form-group">
+                                                    <label class="form-label">นามสกุล</label>
+                                                    <input type="text" class="form-control" name="" placeholder="นามสกุล">
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="form-label">เบอร์โทรศัพท์</label>
+                                                    <input type="text" class="form-control" name="example-text-input" placeholder="เบอร์โทรศัพท์">
+                                                </div>
+
+                                                 <div class="form-group ">
+                                                    <div class="form-label">เพศ</div>
+                                                    <div class="custom-controls-stacked">
+                                                        <label class="custom-control custom-radio">
+                                                            <input type="radio" class="custom-control-input" name="example-radios" value="option1" checked>
+                                                            <span class="custom-control-label">ชาย</span>
+                                                        </label>
+                                                        <label class="custom-control custom-radio">
+                                                            <input type="radio" class="custom-control-input" name="example-radios" value="option2">
+                                                            <span class="custom-control-label">หญิง</span>
+                                                        </label>
+                                                       
+                                                       
+                                                    </div>
+                                                </div>
+                                              
+
+
+                                            </div>       
+
+
+                                   </div>
+                            </div>         
+
+                        </div>
                             </div>
-                            <form action="#" method="get" id="form-login" accept-charset="utf-8">
-                                <div class="form-box">
-                                    <label for="name-login">ชื่อผู้ใช้งาน หรือ อีเมล์ * </label>
-                                    <input type="text" id="name-login" name="name-login" placeholder="Username or email address">
-                                </div><!-- /.form-box -->
-                                <div class="form-box">
-                                    <label for="password-login">รหัสผ่าน * </label>
-                                    <input type="text" id="password-login" name="password-login" placeholder="******">
-                                </div><!-- /.form-box -->
-                                <div class="form-box checkbox">
-                                    <input type="checkbox" id="remember" checked name="remember">
-                                    <label for="remember">Remember me</label>
-                                </div><!-- /.form-box -->
-                                <div class="form-box">
-                                    <button type="submit" class="login">เข้าสู่ระบบ</button>
-                                    <a href="#" title="">ลืมรหัสผ่าน ?</a>
-                                </div><!-- /.form-box -->
-                            </form><!-- /#form-login -->
-                        </div><!-- /.form-login -->
-                    </div><!-- /.col-md-6 -->
-                    <div class="col-md-6">
-                        <div class="form-register">
-                            <div class="title">
-                                <h3>เริ่มต้นใช้งานใหม่</h3>
-                            </div>
 
-                 
+           </div>                 
+            </section>
 
-                            <center>
-                                 <button type="submit" > <img src="images/icons/icon-facebook.png" alt=""> เข้าสู่ระบบด้วย Facebook</button>
-                             </center>
-                             <br> <center> <h3>หรือแค่ </h3></center>
+        
 
-                           
-
-                            <form action="#" method="get" id="form-register" accept-charset="utf-8">
-                           
-                                
-                       
-
-                                <div class="form-box">
-                                    <label for="name-register">ชื่อผู้ใช้งาน หรือ อีเมล์ * </label>
-                                    <input type="text" id="name-register" name="name-register">
-                                </div><!-- /.form-box -->
-                                <div class="form-box">
-                                    <label for="password-register">Password</label>
-                                    <input type="text" id="password-register" name="password-register">
-                                </div><!-- /.form-box -->
-                                    <center>
-                                         <div class="form-box">
-                                    <button type="submit" class="register">ลงทะเบียน</button>
-                                </div><!-- /.form-box -->
-                                    </center>
-
-                                    <p align="center">กด “ลงทะเบียน” เพื่อยอมรับ เงื่อนไขการใช้บริการ และ 
-                                        <a href="privacy-policy.html"> นโยบายความเป็นส่วนตัว <a> <p>
-
-                               
-
-
-   
-                            </form><!-- /#form-register -->
-                        </div><!-- /.form-register -->
-                    </div><!-- /.col-md-6 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.flat-account -->
 
         <section class="flat-row flat-iconbox style1 background">
             <div class="container">
