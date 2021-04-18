@@ -530,7 +530,7 @@
                                              <div class="col-md-6 col-lg-6">
                                                 <div class="form-group">
                                                     <label class="form-label">วัน/เดือน/ปี</label>
-                                                    <input class="form-control fc-datepicker" placeholder="MM/DD/YYYY" type="text">
+                                                    <input class="datepicker" placeholder="MM/DD/YYYY" type="text"  >
                                                 </div>
                                             </div>
 
@@ -878,12 +878,25 @@
 
         <script type="text/javascript" src="javascript/main.js"></script>
 
-        <script src="assets/plugins/date-picker/spectrum.js"></script>
-        <script src="assets/plugins/date-picker/jquery-ui.js"></script>
-        <script src="assets/plugins/input-mask/jquery.maskedinput.js"></script>
+    
 
-        <!-- Inline js -->
-        <script src="assets/js/select2.js"></script>
+        <script>
+          $(function () {
+
+    // INITIALIZE DATEPICKER PLUGIN
+    $('.datepicker').datepicker({
+        clearBtn: true,
+        format: "dd/mm/yyyy"
+    });
+
+
+    // FOR DEMO PURPOSE
+    $('#reservationDate').on('change', function () {
+        var pickedDate = $('input').val();
+        $('#pickedDate').html(pickedDate);
+    });
+});
+        </script>
 
 
     </body> 
