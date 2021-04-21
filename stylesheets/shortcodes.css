@@ -6024,7 +6024,14 @@ table.product thead tr th:last-child {
 }
 
 .btn-order {
-	margin-top:40px;
+	/*margin-top:40px;*/
+	padding-left:30px;
+	padding-right:30px;
+	margin-bottom:11px;
+}
+
+.btn-update {
+	/*margin-top:40px;*/
 	padding-left:30px;
 	padding-right:30px;
 	margin-bottom:11px;
@@ -6036,9 +6043,20 @@ table.product thead tr th:last-child {
 	color:#fff;
 	font-size:20px;
 	text-align:center;
-	height:60px;
-	line-height:60px;
-	border-radius:30px;
+	height:50px;
+	line-height:50px;
+	border-radius:10px;
+}
+
+.btn-update a {
+	display:block;
+	background-color:#707070;
+	color:#fff;
+	font-size:20px;
+	text-align:center;
+	height:50px;
+	line-height:50px;
+	border-radius:10px;
 }
 
 .btn-order a:hover,
@@ -6054,6 +6072,18 @@ table.product thead tr th:last-child {
 	transition:all 0.3s ease-in-out;
 }
 
+.btn-update a:hover,
+.btn-update a:focus {
+	color:#FFF;
+	text-decoration:none;
+	background-color: #2d2d2d;
+	outline:0;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-ms-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	transition:all 0.3s ease-in-out;
+}
 
 .cart-totals.style2 form .checkbox {
 	margin-top:18px;
