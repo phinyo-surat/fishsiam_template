@@ -5851,7 +5851,7 @@ input[type="checkbox"]:checked + label:before {
 	font-size:16px;
 	font-weight:400;
 	color:#484848;
-	font-family:'Open Sans';
+	font-family:'Kanit';
 	padding-bottom:22px;
 	margin-bottom:17px;
 	border-bottom:1px solid #e5e5e5;
@@ -6032,7 +6032,7 @@ table.product thead tr th:last-child {
 
 .btn-order a {
 	display:block;
-	background-color:#f92400;
+	background-color:#f28b00;
 	color:#fff;
 	font-size:20px;
 	text-align:center;
