@@ -5480,6 +5480,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 	color: #fff;
 	background-color: #4ecc48;
 	border-color: #4ecc48;
+	width: 13.125;
 }
 .btn-success:hover {
 	color: #fff;
@@ -11925,15 +11926,15 @@ a.icon:hover {
 	text-align: center;
 }
 .btn-secondary {
-	color: #fff;
-	background-color: #868e96;
-	border-color: #868e96;
+	color: #f28b00;
+	background-color: #fff;
+	border-color: #fff;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.05);
 }
 .btn-secondary:hover {
-	color: #fff;
-	background-color: #c2c5c8;
-	border-color: #c2c5c8;
+	color: #f28b00;
+	background-color: #ffffff;
+	border-color: #fff;
 }
 .btn-secondary:focus, .btn-secondary.focus {
 	box-shadow: 0 0 0 2px #c2c5c8;
