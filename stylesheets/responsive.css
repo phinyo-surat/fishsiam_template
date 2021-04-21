@@ -163,11 +163,11 @@
 	}
 
 	body.background .flat-imagebox.style4 .owl-carousel-3.owl-theme .owl-controls .owl-nav div.owl-prev {
-		left:-45px;
+		left:-110px;
 	}
 
 	body.background .flat-imagebox.style4 .owl-carousel-3.owl-theme .owl-controls .owl-nav div.owl-next {
-		right:-45px;
+		right:-110px;
 	}
 
 	#mega-menu > ul.menu > li .drop-menu {
@@ -1660,7 +1660,7 @@
 	}
 
 	.box-cart .inner-box .dropdown-box {
-		right:-57px;width:310px;padding:25px 15px;
+		right:-110px;width:310px;padding:25px 15px;
 	}
 
 	.box-cart .inner-box .dropdown-box:before {
