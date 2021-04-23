@@ -5431,8 +5431,8 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 .btn-primary:hover {
 	color: #fff;
-	background-color: #2EBE9E;
-	border-color: #2EBE9E;
+	background-color: #f28b00;
+	border-color: #f28b00;
 }
 .btn-primary:focus, .btn-primary.focus {
 	box-shadow: 0 0 0 2px rgb(70,221,173,0.5);
@@ -15836,8 +15836,8 @@ a.tag-addon:hover {
 }
 #back-to-top:hover {
 	background: #fff;
-	color: #2EBE9E;
-	border: 2px solid #2EBE9E;
+	color: #f28b00;
+	border: 2px solid #f28b00;
 }
 
 /*---- Time line -----*/
