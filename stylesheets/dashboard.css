@@ -14862,7 +14862,7 @@ a.chip:hover {
 	border-right: 5px solid #f3f3f3;
 }
 .example {
-	padding: 1.5rem;
+	/*padding: 1.5rem;*/
 	border: 1px solid #eaeaea;
 	border-radius: 3px 3px 0 0;
 	font-size: 0.9375rem;

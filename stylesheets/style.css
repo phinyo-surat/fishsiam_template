@@ -502,6 +502,9 @@ h4 {
 .background {
 	background-color:#f5f5f5;
 }
+.background-body {
+	background-color:#fff;
+}
 
 /* Boxed
 -------------------------------------------------------------- */
