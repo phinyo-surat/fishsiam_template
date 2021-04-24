@@ -12913,6 +12913,11 @@ a.icon:hover {
 	background-size: cover;
 	background-position: center;
 }
+.profile-img{
+	background: rgb(244, 244, 244);
+	background-size: cover;
+	background-position: center;
+}
 .login-img {
 	background: url('../images/login.jpg');
 	background-size: cover;

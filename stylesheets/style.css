@@ -545,6 +545,12 @@ h4 {
 	
 	
 }
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
 /* Header Top */
 .header-top {
 	border-bottom:2px solid #e5e5e5;
@@ -1285,17 +1291,24 @@ ul.flat-unstyled li > ul > li > a {
 	border-color:transparent;
 }
 
+
+
 /* Header Bottom */
 .header-bottom {
+
 	background-color:#0867af;
 	height:55px;
+	
+
 }
+
+
 
 .header-bottom > .container > .row {
 	position:relative;
 }
 
-.header-bottom.style2 {
+.header-bottom.style2  {
 	background-color:#ffb508;
 }
 
@@ -1315,6 +1328,7 @@ ul.flat-unstyled li > ul > li > a {
 	-ms-transition:all 0.3s ease-in-out;
 	-o-transition:all 0.3s ease-in-out;
 	transition:all 0.3s ease-in-out;
+
 }
 
 #mega-menu > .btn-mega {
