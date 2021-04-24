@@ -23,6 +23,7 @@
 
         <link rel="shortcut icon" href="favicon/favicon.png">
         <link href="stylesheets/dashboard.css" rel="stylesheet" />
+        <link href="assets/plugins/fileuploads/css/dropify.min.css" rel="stylesheet" type="text/css" />
 
 
 
@@ -590,9 +591,70 @@
                                         <div class="col-md-12 col-lg-12">
                                                 <div class="form-group">
                                                     <label class="form-label">รูปภาพสินค้า</label>
-                                                    <input type="text" class="form-control" name="" placeholder="ระบุราคาเต็มของสินค้า / ค่าบริการ">
+                                                   <input type="file" class="dropify" data-height="180" />
                                                 </div>
                                         </div>   
+
+                                        <div class="col-md-12 col-lg-12">
+                                                <div class="form-group">
+                                                    <label class="form-label">รายละเอียดสินค้า</label>
+                                                   <textarea class="form-control" name="" rows="6" placeholder="ข้อมูลเพิ่มเติม เช่น ขนาด สี น้ำหนัก ของปลา"></textarea>
+                                                </div>
+                                        </div> 
+
+                                        <div class="col-md-12 col-lg-12">
+                                            <div class="form-group ">
+                                            <label class="form-label">ระบุพื้นที่ของสินค้า (จังหวัด)</label>
+                                            <select class="form-control select2 custom-select" data-placeholder="เลือกจังหวัด">
+                                                <option label="เลือกจังหวัด">
+                                                </option>
+                                                <option value="1">กรุงเทพมานคร</option>
+                                            </select>
+                                        </div>
+                                        </div> 
+
+                                        <div class="col-md-12 col-lg-12">
+                                            <div class="form-group ">
+                                            <label class="form-label">ระบุพื้นที่ของสินค้า (เขต/อำเภอ)</label>
+                                            <select class="form-control select2 custom-select" data-placeholder="เลือกเขต/อำเภอ">
+                                                <option label="เลือกเขต/อำเภอ">
+                                                </option>
+                                                <option value="1">กรุงเทพมานคร</option>
+                                            </select>
+                                        </div>
+                                        </div> 
+
+                                        <div class="col-md-12 col-lg-12">
+                                                <div class="form-group">
+                                                    <label class="form-label">เบอร์โทรติดต่อ</label>
+                                                    <input type="text" class="form-control" name="" placeholder="เบอร์โทรติดต่อ">
+                                                </div>
+                                        </div>
+
+                                         <div class="col-md-12 col-lg-12">
+                                               <div class="form-group ">
+                                                    <div class="form-label">ต้องการ</div>
+                                                    <div class="custom-controls-stacked">
+                                                        <label class="custom-control custom-radio">
+                                                            <input type="radio" class="custom-control-input" name="example-radios" value="option1" checked>
+                                                            <span class="custom-control-label">ขาย</span>
+                                                        </label>
+                                                        <label class="custom-control custom-radio">
+                                                            <input type="radio" class="custom-control-input" name="example-radios" value="option2">
+                                                            <span class="custom-control-label">ประมูล</span>
+                                                        </label>
+                                                      
+                                                       
+                                                    </div>
+                                                </div>
+                                        </div>
+
+                                        <div class="col-md-12 col-lg-12">
+                                                คลิกปุ่ม "บันทึก" เพื่อยอมรับ ข้อกำหนดและเงื่อนไขการลงประกาศ <br><br>
+
+                                                <button type="button" class="btn btn-info mb-1">บันทึก</button>
+                                        </div>
+
 
 
                            </div>
@@ -767,24 +829,18 @@
         <script src="assets/plugins/fileuploads/js/dropify.min.js"></script>
 
     
-
-        <script>
-          $(function () {
-
-    // INITIALIZE DATEPICKER PLUGIN
-    $('.datepicker').datepicker({
-        clearBtn: true,
-        format: "dd/mm/yyyy"
-    });
-
-
-    // FOR DEMO PURPOSE
-    $('#reservationDate').on('change', function () {
-        var pickedDate = $('input').val();
-        $('#pickedDate').html(pickedDate);
-        
-    });
-});
+<script type="text/javascript">
+            $('.dropify').dropify({
+                messages: {
+                    'default': 'Drag and drop a file here or click',
+                    'replace': 'Drag and drop or click to replace',
+                    'remove': 'Remove',
+                    'error': 'Ooops, something wrong appended.'
+                },
+                error: {
+                    'fileSize': 'The file size is too big (2M max).'
+                }
+            });
         </script>
 
 
@@ -807,56 +863,4 @@ document.oncontextmenu=new Function("return false")
 
 </script> -->
 
- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-  
-     <img src="images/banner_boxes/banner-4.jpg" alt="">
-     <div class="row">
-     <div class="col-md-1">
-        </div>
-        <div class="col-md-10">
-      <div class="modal-body">
-        <form>
-          <div class="form-group">
-            <label for="recipient-name" class="col-form-label">ชื่อผู้ใช้งาน :</label>
-            <input type="text" class="form-control" id="recipient-name">
-          </div>
-         <div class="form-group">
-            <label for="recipient-name" class="col-form-label">รหัสผ่าน :</label>
-            <input type="password" class="form-control" id="recipient-name">
-          </div>
-          <center>หรือ <br>
-   
-            <div class="col-md-12">
-                                                <center>
-                                                    <button type="button" class="btn btn-facebook"><i class="fa fa-facebook mr-2"></i>เข้าสู่ระบบด้วย Facebook</button>
-                                                </center>
-                                                <br>
-
-                                               
-                                                
-                                            </div>
-          
-            
-
-      </center>
-
-
-        </form>
-      </div>
-      </div>
-     
-
-       <div class="col-md-1">
-        </div>
-
-        </div>
-
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">ยกเลิก</button>
-        <button type="button" class="btn btn-warning">เข้าสู่ระบบ</button>
-      </div>
-    </div>
-  </div>
-</div>
+ 
