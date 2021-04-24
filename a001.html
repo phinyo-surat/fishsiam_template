@@ -22,7 +22,8 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 
         <link rel="shortcut icon" href="favicon/favicon.png">
-
+         <link href="stylesheets/dashboard.css" rel="stylesheet" />
+         <link href="assets/plugins/tabs/style.css" rel="stylesheet" />
 
 
     </head>
@@ -218,24 +219,74 @@
                                         </div><!-- /.box-search -->
                                     </form><!-- /.form-search -->
                                 </div><!-- /.top-search -->
-                                <div class="box-cart style1 v1">
-                                    <div class="inner-box">
-                                        <ul class="menu-compare-wishlist">
-                                            <li class="compare">
-                                                <a href="#" title="">
-                                                    <img src="images/icons/compare-2.png" alt="">
-                                                </a>
-                                            </li>
-                                            <li class="wishlist">
-                                                <a href="#" title="">
-                                                    <img src="images/icons/wishlist-2.png" alt="">
-                                                </a>
-                                            </li>
-                                        </ul><!-- /.menu-compare-wishlist -->
-                                    </div><!-- /.inner-box -->
+                                
+                               <div class="box-cart">
+                                <div class="inner-box">
+                                    <ul class="menu-compare-wishlist">
+                                        
+                                        <li class="wishlist">
+                                            <a href="#" title="">
+                                                <img src="images/icons/favorite_border_white.png" alt="" width="22">
+                                            </a>
+                                        </li>
+                                    </ul><!-- /.menu-compare-wishlist -->
+                                </div><!-- /.inner-box -->
+                                <div class="inner-box">
+                                    <a href="#" title="">
+                                        <div class="icon-cart">
+                                            <img src="images/icons/shopping_cart_white.png" alt="" width="22">
+                                            <span>2</span>
+                                        </div>
                                     
-
-                                </div><!-- /.box-cart -->
+                                    </a>
+                                    <div class="dropdown-box">
+                                        <ul>
+                                            <li>
+                                                <div class="img-product">
+                                                    <img src="images/product/other/pro-04.jpg" alt="">
+                                                </div>
+                                                <div class="info-product">
+                                                    <div class="name">
+                                                        ปลาสีส้ม ตัวเล็ก <br />ร้านเจ๊ปลา แดนไทย
+                                                    </div>
+                                                    <div class="price">
+                                                        <span>1 x</span>
+                                                        <span>30 บาท</span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <span class="delete"> <button type="button" class="btn btn-secondary" data-dismiss="">ลบ</button></span>
+                                            </li>
+                                            <li>
+                                                <div class="img-product">
+                                                    <img src="images/product/other/pro-03.jpg" alt="">
+                                                </div>
+                                                <div class="info-product">
+                                                    <div class="name">
+                                                        ปลาหมอสี ใจใหญ่ <br> ร้านสมรักษ์ชอบเลี้ยงปลา
+                                                    </div>
+                                                    <div class="price">
+                                                        <span>1 x</span>
+                                                        <span>30 บาท</span>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix"></div>
+                                                <span class="delete"><button type="button" class="btn btn-secondary" data-dismiss="">ลบ</button></span>
+                                            </li>
+                                        </ul>
+                                        <div class="total">
+                                            <span>รวมทั้งหมด :</span>
+                                            <span class="price">60 บาท</span>
+                                        </div>
+                                        <div class="btn-cart">
+                                            <a href="cart.html" class="view-cart" title="">รายการสั่งซื้อ</a>
+                                            <a href="#" class="check-out" title="">ชำระเงิน</a>
+                                        </div>
+                                    </div>
+                                </div><!-- /.inner-box -->&nbsp;&nbsp;&nbsp;&nbsp;
+                                 <button type="button" class="btn btn-secondary" data-dismiss="">ลงขาย ฟรี!</button>
+                            </div><!-- /.box-cart -->
+                                
                             </div><!-- /.col-md-9 -->
                         </div><!-- /.row -->
                     </div><!-- /.container -->
@@ -482,6 +533,9 @@
             </div><!-- /.container -->
         </section><!-- /.flat-breadcrumb -->
 
+       
+
+
             
         <section class="flat-product-detail">
             <div class="container">
@@ -668,18 +722,50 @@
                    
                  
                 </div><!-- /.row -->
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="tecnical-specs">
-                            <h4 class="name">
-                               ผู้ใช้/ประมูลอัตโนมัติ
-                            </h4>
-                            <div class="table-responsive">
-                            <center>อยู่ระหว่างปรับปรุง</center>
+               
+                           
+                            <div class="row">
+                            <div class="col-md-12 col-lg-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <div class="card-title">ผู้ใช้/ประมูลอัตโนมัติ</div>
+                                </div>
+                                <div class="card-body">
+                                    <div class="table-responsive">
+                                    <table id="example" class="table table-striped table-bordered" style="width:100%">
+                                        <thead>
+                                            <tr>
+                                                <th class="wd-15p">ชื่อผู้ประมูล</th>
+                                                <th class="wd-15p">ราคา</th>
+                                                <th class="wd-20p">ระยะเวลา</th>
+                                                
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>สมบูรณ์ มีดวง</td>
+                                                <td>฿50</td>
+                                                <td>17:55:25</td>
+                                               
+                                            </tr>
+                                            <tr>
+                                               <td>ธงชัย มีปลา</td>
+                                                <td>฿90</td>
+                                                <td>17:55:30</td>
+                                               
+                                            </tr>
+                                    
+                                        </tbody>
+                                    </table>
+                                </div>
+                                </div>
+                                <!-- table-wrapper -->
                             </div>
-                        </div><!-- /.tecnical-specs -->
-                    </div><!-- /.col-md-12 -->
-                </div><!-- /.row -->
+                            <!-- section-wrapper -->
+
+                            </div>
+                        </div>
+                       
                 <div class="row">
                     <div class="col-md-6">
                         <div class="rating">
@@ -764,139 +850,31 @@
 
 
 
-        <section class="flat-row flat-iconbox style1 background">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 col-lg-3">
-                        <div class="iconbox style1 v1">
-                            <div class="box-header">
-                                <div class="image">
-                                    <img src="images/icons/car.png" alt="">
-                                </div>
-                                <div class="box-title">
-                                    <h3>Worldwide Shipping</h3>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div><!-- /.box-header -->
-                        </div><!-- /.iconbox -->
-                    </div><!-- /.col-md-6 col-lg-3 -->
-                    <div class="col-md-6 col-lg-3">
-                        <div class="iconbox style1 v1">
-                            <div class="box-header">
-                                <div class="image">
-                                    <img src="images/icons/order.png" alt="">
-                                </div>
-                                <div class="box-title">
-                                    <h3>Order Online Service</h3>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div><!-- /.box-header -->
-                        </div><!-- /.iconbox -->
-                    </div><!-- /.col-md-6 col-lg-3 -->
-                    <div class="col-md-6 col-lg-3">
-                        <div class="iconbox style1 v1">
-                            <div class="box-header">
-                                <div class="image">
-                                    <img src="images/icons/payment.png" alt="">
-                                </div>
-                                <div class="box-title">
-                                    <h3>Payment</h3>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div><!-- /.box-header -->
-                        </div><!-- /.iconbox -->
-                    </div><!-- /.col-md-6 col-lg-3 -->
-                    <div class="col-md-6 col-lg-3">
-                        <div class="iconbox style1 v1">
-                            <div class="box-header">
-                                <div class="image">
-                                    <img src="images/icons/return.png" alt="">
-                                </div>
-                                <div class="box-title">
-                                    <h3>Return 30 Days</h3>
-                                </div>
-                                <div class="clearfix"></div>
-                            </div><!-- /.box-header -->
-                        </div><!-- /.iconbox -->
-                    </div><!-- /.col-md-6 col-lg-3 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.flat-iconbox -->
-
-
-        
-
-          <!-- <div class="row">
-            <div class="col-sm-3" align="center">สวัสดร</div>
-             <div class="col-sm-3" align="center">สวัสดร</div>
-         <div class="col-sm-3" align="center">สวัสดร</div>
-          <div class="col-sm-3" align="center">สวัสดร</div>
-
-</div> -->
-
-
-            
 
 
 
 
-
-
-
-            <footer class="background">
+           <footer class="background">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3 col-md-6">
                             <div class="widget-ft widget-about">
                                 <div class="logo logo-ft">
                                     <a href="index.html" title="">
-                                            <img src="images/logos/Logo_th-1.png" alt="">
+                                        <img src="images/logos/Logo_th-1.png" alt="">
                                     </a>
                                 </div><!-- /.lgo-ft -->
                                 <div class="widget-content">
-                                    <div class="icon">
-                                        <img src="images/icons/call.png" alt="">
-                                    </div>
+                                    
                                     <div class="info">
-                                        <p class="questions">มีคำถาม ? ติดต่อเรา 24/7!</p>
-                                        <p class="phone">ติดต่อเรา: (888) 1234 56789</p>
-                                        <p class="address">
-                                            Thefishsiam.com<br />
+                                        
+                                        <p>ติดต่อฝ่ายบริการลูกค้า</p>
+                                        <p>โทร : (+66) 12345678 <br/>
+                                            จ-ศ 09:00 - 18:00 น.
                                         </p>
                                     </div>
                                 </div><!-- /.widget-content -->
-                                <ul class="social-list">
-                                    <li>
-                                        <a href="#" title="">
-                                            <i class="fa fa-facebook" aria-hidden="true"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" title="">
-                                            <i class="fa fa-twitter" aria-hidden="true"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" title="">
-                                            <i class="fa fa-instagram" aria-hidden="true"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" title="">
-                                            <i class="fa fa-pinterest" aria-hidden="true"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" title="">
-                                            <i class="fa fa-dribbble" aria-hidden="true"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" title="">
-                                            <i class="fa fa-google" aria-hidden="true"></i>
-                                        </a>
-                                    </li>
-                                </ul><!-- /.social-list -->
+                            
                             </div><!-- /.widget-about -->
                         </div><!-- /.col-lg-3 col-md-6 -->
                         <div class="col-lg-2 ">
@@ -934,7 +912,7 @@
                                         <a href="#" title="">นโยบายของเรา</a>
                                     </li>
                                     <li>
-                                        <a href="#" title="">นโยบายความเป็นส่วนตัว</a>
+                                        <a href="privacy-policy.html" title="">นโยบายความเป็นส่วนตัว</a>
                                     </li>
                                     <li>
                                         <a href="#" title="">ผู้ติดต่อออนไลน์</a>
@@ -943,17 +921,19 @@
                                 </ul><!-- /.cat-list-ft -->
                             </div><!-- /.widget-categries-ft -->
                         </div><!-- /.col-lg-3 col-md-6 -->
+                        
                         <div class="col-lg-2 ">
                             <div class="widget-ft ">
                                 <div class="widget-title">
-                                    <h3>บริการจัดส่ง</h3>
+                                    <h3>ติดตามพัสดุ</h3>
                                 </div><!-- /.widget-title -->
-                                        <img src="images/icons/thaiPos.png" alt="" width="90">
-                                        <img src="images/icons/kerry.png" alt="" width="90"> 
-                                        <img src="images/icons/scg.png" alt="" width="90"> 
+                    <a href ="https://www.thailandpost.co.th" target="_blank"><img src="images/icons/thaiPos.png" alt="" width="90"></a>
+                    <a href ="https://th.kerryexpress.com" target="_blank"><img src="images/icons/kerry.png" alt="" width="90"></a>
+                    <a href ="https://www.scgexpress.co.th" target="_blank"><img src="images/icons/scg.png" alt="" width="90"></a>
                                     
                             </div><!-- /.widget-categries-ft -->
                         </div><!-- /.col-lg-3 col-md-6 -->
+
                         <div class="col-lg-2 ">
                             <div class="widget-ft widget-categories-ft">
                                 <div class="widget-title">
@@ -979,6 +959,7 @@
 
                 </div><!-- /.container -->
             </footer><!-- /footer -->
+
 
                 <section class="footer-bottom style1">
                 <div class="container">
@@ -1017,67 +998,18 @@
 
         <script type="text/javascript" src="javascript/main.js"></script>
 
+            <script src="assets/plugins/datatable/jquery.dataTables.min.js"></script>
+        <script src="assets/plugins/datatable/dataTables.bootstrap4.min.js"></script>
+
     </body> 
 </html>
 
-<!-- <script language=JavaScript>
-
-var message="ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม";
-
-function clickIE() {if (document.all) {alert(message);return false;}}
-function clickNS(e) {if
-(document.layers||(document.getElementById&&!document.all)) {
-if (e.which==2||e.which==3) {alert(message);return false;}}}
-if (document.layers)
-{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
-else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
-
-document.oncontextmenu=new Function("return false")
-
-</script> -->
-
- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-  
-     <img src="images/banner_boxes/banner-4.jpg" alt="">
-     <div class="row">
-     <div class="col-md-1">
-        </div>
-        <div class="col-md-10">
-      <div class="modal-body">
-        <form>
-          <div class="form-group">
-            <label for="recipient-name" class="col-form-label">ชื่อผู้ใช้งาน :</label>
-            <input type="text" class="form-control" id="recipient-name">
-          </div>
-         <div class="form-group">
-            <label for="recipient-name" class="col-form-label">รหัสผ่าน :</label>
-            <input type="password" class="form-control" id="recipient-name">
-          </div>
-          <center>หรือ <br>
-   
-            <button class="btn btn-primary"><div class="">  <img src="images/icons/icon-facebook.png" alt=""> เข้าสู่ระบบด้วย Facebook</div></button>
-          
-            
-
-      </center>
+<script>
+            $(function(e) {
+                $('#example').DataTable();
+            } );
+        </script>
 
 
-        </form>
-      </div>
-      </div>
-     
 
-       <div class="col-md-1">
-        </div>
-
-        </div>
-
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">ยกเลิก</button>
-        <button type="button" class="btn btn-warning">เข้าสู่ระบบ</button>
-      </div>
-    </div>
-  </div>
-</div>
+ 
