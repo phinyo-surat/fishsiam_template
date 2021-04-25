@@ -6059,7 +6059,7 @@ input[type="submit"].btn-block, input[type="reset"].btn-block, input[type="butto
 .dropdown-item {
 	display: block;
 	width: 100%;
-	padding: 0.5rem 1.5rem;
+	padding: 0.5rem 0rem;
 	clear: both;
 	font-weight: 400;
 	color: #212529;

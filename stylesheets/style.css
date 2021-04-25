@@ -1228,7 +1228,7 @@ ul.flat-unstyled li > ul > li > a {
 }
 
 .box-cart .inner-box .dropdown-box .btn-cart a.view-cart {
-	padding:10px 33px;
+	padding:5px 13px;
 	color:#f28b00;
 	border:2px solid #f28b00;
 	border-radius:30px;
@@ -1275,7 +1275,7 @@ ul.flat-unstyled li > ul > li > a {
 }
 
 .box-cart .inner-box .dropdown-box .btn-cart a.check-out {
-	padding:12px 35px;
+	padding:8px 30px;
 	color:#fff;
 	border-radius:30px;
 	font-size:14px;
