@@ -1145,7 +1145,7 @@ ul.flat-unstyled li > ul > li > a {
 	content:'';
 	position:absolute;
 	top:-7px;
-	right:20px;
+	right:15px;
 	border-left:7px solid transparent;
 	border-right:7px solid transparent;
 	border-bottom:7px solid #e5e5e5;
