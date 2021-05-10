@@ -6562,7 +6562,7 @@ div.dataTables_wrapper div.dataTables_filter input {
 .custom-range::-moz-focus-outer {
 	border: 0;
 }
-.custom-range::-webkit-slider-thumb {
+/*.custom-range::-webkit-slider-thumb {
 	width: 1rem;
 	height: 1rem;
 	margin-top: -0.25rem;
@@ -6571,8 +6571,8 @@ div.dataTables_wrapper div.dataTables_filter input {
 	border-radius: 1rem;
 	-webkit-appearance: none;
 	appearance: none;
-}
-.custom-range::-webkit-slider-thumb:focus {
+}*/
+/*.custom-range::-webkit-slider-thumb:focus {
 	outline: none;
 	box-shadow: 0 0 0 1px #f6f6f6, 0 0 0 2px rgba(70, 127, 207, 0.25);
 }
@@ -6587,7 +6587,7 @@ div.dataTables_wrapper div.dataTables_filter input {
 	background-color: #dee2e6;
 	border-color: transparent;
 	border-radius: 1rem;
-}
+}*/
 .custom-range::-moz-range-thumb {
 	width: 1rem;
 	height: 1rem;
@@ -7760,7 +7760,7 @@ ul {
 
 /*----- Range slider -------*/
 
-.range {
+/*.range {
 	display: table;
 	position: relative;
 	height: 25px;
@@ -7900,7 +7900,7 @@ ul {
 }
 .range.range-danger input[type="range"] {
 	outline-color: #c21a1a;
-}
+}*/
 
 /*-----Pricing tables-----*/
 
@@ -15265,15 +15265,15 @@ a.tag-addon:hover {
 	-ms-user-select: none;
 	user-select: none;
 }
-.highlight .language-powershell::before {
+/*.highlight .language-powershell::before {
 	color: #009;
 	content: "PM> ";
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-}
-.carousel-item-background {
+}*/
+/*.carousel-item-background {
 	content: '';
 	background: rgba(0, 0, 0, 0.5);
 	position: absolute;
@@ -15297,8 +15297,8 @@ a.tag-addon:hover {
 	overflow: hidden;
 	padding: 0;
 	border: 0;
-}
-.custom-range:focus {
+}*/
+/*.custom-range:focus {
 	box-shadow: none;
 	outline: none;
 }
@@ -15322,8 +15322,8 @@ a.tag-addon:hover {
 	content: '';
 	height: 2px;
 	pointer-events: none;
-}
-.custom-range::-webkit-slider-thumb {
+}*/
+/*.custom-range::-webkit-slider-thumb {
 	width: 14px;
 	height: 14px;
 	-webkit-appearance: none;
@@ -15334,7 +15334,7 @@ a.tag-addon:hover {
 	margin-top: -6px;
 	border: 1px solid rgba(0, 30, 75, 0.12);
 	transition: .3s border-color, .3s background-color;
-}
+}*/
 .custom-range::-moz-range-track {
 	width: 240px;
 	height: 2px;
@@ -18272,9 +18272,9 @@ svg {
 .fe-slash:before {
 	content: "\e9ce";
 }
-.fe-sliders:before {
+/*.fe-sliders:before {
 	content: "\e9cf";
-}
+}*/
 .fe-smartphone:before {
 	content: "\e9d0";
 }
