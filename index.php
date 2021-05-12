@@ -178,6 +178,10 @@
 											<p align = "left">ร้านรักษ์ปลา</p>
 											<p align = "left">เมืองเชียงใหม่ เชียงใหม่</p>
 										</div>
+
+										<div class="price">
+												ราคาสูงสุด <span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
+											</div>
 										
 										
 									</div><!-- /.box-content -->
@@ -268,7 +272,7 @@
 				<span class="fa fa-star checked"></span>
 				<span class="fa fa-star checked"></span>
 				<span class="fa fa-star checked"></span>
-				<p>39 (คะแนนทั้งหมด 99)</p>
+				<p>(การให้คะแนนทั้งหมด 29 คน)</p>
 								<div class="box-content">
 									
 									<div class="product-name">
@@ -293,7 +297,7 @@
 				<span class="fa fa-star checked"></span>
 				<span class="fa fa-star checked"></span>
 				<span class="fa fa-star "></span>
-				<p>20 (คะแนนทั้งหมด 99)</p>
+				<p>(การให้คะแนนทั้งหมด 50 คน)</p>
 								<div class="box-content">
 									
 									<div class="product-name">
@@ -317,7 +321,7 @@
 				<span class="fa fa-star checked"></span>
 				<span class="fa fa-star checked"></span>
 				<span class="fa fa-star "></span>
-				<p>39 (คะแนนทั้งหมด 99)</p>
+				<p>(การให้คะแนนทั้งหมด 45 คน)</p>
 								<div class="box-content">
 									
 									<div class="product-name">
@@ -341,7 +345,7 @@
 				<span class="fa fa-star checked"></span>
 				<span class="fa fa-star "></span>
 				<span class="fa fa-star "></span>
-				<p>25 (คะแนนทั้งหมด 99)</p>
+				<p>(การให้คะแนนทั้งหมด 90 คน)</p>
 								<div class="box-content">
 									
 									<div class="product-name">
@@ -365,7 +369,7 @@
 				<span class="fa fa-star checked"></span>
 				<span class="fa fa-star "></span>
 				<span class="fa fa-star "></span>
-				<p>23 (คะแนนทั้งหมด 99)</p>
+				<p>(การให้คะแนนทั้งหมด 34 คน)</p>
 								<div class="box-content">
 									
 									<div class="product-name">
@@ -427,9 +431,10 @@
 								<div class="box-content">
 									
 									<div class="product-name">
+										<p>รายละเอียด</p>
 									<a href="#" title="" > <h4>ปลาการ์ตูนส้มขาว</h4></a>
-										
-										<p>ชอบปลาดอทคอม</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ชอบปลาดอทคอม</p>
 										<p>บางกอกน้อย กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
@@ -460,9 +465,11 @@
 								<div class="box-content">
 									
 									<div class="product-name">
+										<p>รายละเอียด</p>
 									<a href="#" title="" > <h4>ปลาคาร์ฟ</h4></a>
 										
-										<p>บ้านปลาคาร์ฟ สุวรรณภูมิ</p>
+										<p>หมวดหมู่ : ปลาครา์ฟ</p>
+										<p>ร้าน : ลุงชัยเลี้ยงปลา</p>
 										<p>ลาดกระบัง กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
@@ -491,10 +498,12 @@
 								<div class="box-content">
 									
 									<div class="product-name">
+										<p>รายละเอียด</p>
 									<a href="#" title="" > <h4>ปลาทอง</h4></a>
 										
-										<p>ร้าน : ชอบปลาดอทคอม</p>
-										<p>บางกอกน้อย กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ลุงชัยเลี้ยงปลา</p>
+										<p>ลาดกระบัง กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
@@ -521,10 +530,12 @@
 								<div class="box-content">
 									
 									<div class="product-name">
+										<p>รายละเอียด</p>
 									<a href="#" title="" > <h4>ปลาทอง</h4></a>
 										
-										<p>ร้าน : ชอบปลาดอทคอม</p>
-										<p>บางกอกน้อย กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ลุงชัยเลี้ยงปลา</p>
+										<p>ลาดกระบัง กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
@@ -551,10 +562,11 @@
 								<div class="box-content">
 									
 									<div class="product-name">
+										<p>รายละเอียด</p>
 									<a href="#" title="" > <h4>ปลาทอง</h4></a>
-										
-										<p>ร้าน : ชอบปลาดอทคอม</p>
-										<p>บางกอกน้อย กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ลุงชัยเลี้ยงปลา</p>
+										<p>ลาดกระบัง กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
@@ -581,10 +593,12 @@
 								<div class="box-content">
 									
 									<div class="product-name">
+										<p>รายละเอียด</p>
 									<a href="#" title="" > <h4>ปลาทอง</h4></a>
 										
-										<p>ร้าน : ชอบปลาดอทคอม</p>
-										<p>บางกอกน้อย กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ลุงชัยเลี้ยงปลา</p>
+										<p>ลาดกระบัง กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
@@ -650,7 +664,8 @@
 									<div class="product-name">
 									<a href="#" title="" > <h4>ปลาการ์ตูนส้มขาว</h4></a>
 										
-										<p>ชอบปลาดอทคอม</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ป้าแก้วมีปลา</p>
 										<p>บางกอกน้อย กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
@@ -720,8 +735,9 @@
 									<div class="product-name">
 									<a href="#" title="" > <h4>ปลาคาร์ฟ</h4></a>
 										
-										<p>บ้านปลาคาร์ฟ สุวรรณภูมิ</p>
-										<p>ลาดกระบัง กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาคาร์ฟ</p>
+										<p>ร้าน : ป้าพรมีปลา</p>
+										<p>บางกอกน้อย กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
@@ -784,8 +800,9 @@
 									<div class="product-name">
 									<a href="#" title="" > <h4>ปลาทอง</h4></a>
 										
-										<p>ร้าน : ชอบปลาดอทคอม</p>
-										<p>บางกอกน้อย กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ชอบปลา</p>
+										<p>มีนบุรี กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
@@ -848,8 +865,9 @@
 									<div class="product-name">
 									<a href="#" title="" > <h4>ปลาทอง</h4></a>
 										
-										<p>ร้าน : ชอบปลาดอทคอม</p>
-										<p>บางกอกน้อย กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ป้าพรมีปลา</p>
+										<p>ลาดพร้าว กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
@@ -912,8 +930,9 @@
 									<div class="product-name">
 									<a href="#" title="" > <h4>ปลาทอง</h4></a>
 										
-										<p>ร้าน : ชอบปลาดอทคอม</p>
-										<p>บางกอกน้อย กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาทอง</p>
+										<p>ร้าน : ป้าพรมีปลา</p>
+										<p>ธนบุรี กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
@@ -976,8 +995,9 @@
 									<div class="product-name">
 									<a href="#" title="" > <h4>ปลาทอง</h4></a>
 										
-										<p>ร้าน : ชอบปลาดอทคอม</p>
-										<p>บางกอกน้อย กรุงเทพมหานคร</p>
+										<p>หมวดหมู่ : ปลาคาร์ฟ</p>
+										<p>ร้าน : ป้าพรมีปลา</p>
+										<p>พระนคร กรุงเทพมหานคร</p>
 										<div class="price">
 												<span type="body-text" class="sale">฿</span><span class="sale">100 บาท</span>
 											</div>
