@@ -124,10 +124,10 @@
                     <div class="col-md-12">
                         <div class="slider owl-carousel style2">
                             <div class="slider-item ">
-                               <img src="images/slider/slider-forum001.jpg" alt="">
+                               <img src="images/slider/slider-forum001.webp" alt="">
                             </div><!-- /.slider-item style3 -->
                             <div class="slider-item ">
-                              <img src="images/slider/slider-forum001.jpg" alt="">
+                              <img src="images/slider/slider-forum001.webp" alt="">
                             </div><!-- /.slider-item style3 -->
                         </div><!-- /.slider -->
                     </div><!-- /.col-md-12 -->
