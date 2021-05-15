@@ -7,14 +7,14 @@
                                     </div>
                                     <table class="table card-table">
                                         <tr>
-                                            <td><a href="#"><img src="images/icons/settings_black.png" alt="" width="20">  ข้อมูลของฉัน</a></td>
+                                            <td><a href="u_profile"><img src="images/icons/settings_black.png" alt="" width="20">  ข้อมูลของฉัน</a></td>
                                             <td class="text-right">
                                                
                                             </td>
                                             
                                         </tr>
                                         <tr>
-                                        <td><a href="#"><img src="images/icons/add_black.png" alt="" width="20"> ที่อยู่ของฉัน</a></td>
+                                        <td><a href="u_"><img src="images/icons/add_black.png" alt="" width="20"> ที่อยู่ของฉัน</a></td>
                                             <td class="text-right">
                                                 
                                             </td>

@@ -225,7 +225,7 @@
                                             <div class="dropdown-divider"></div>
                                         </div>
                                         <div class="text-left">
-                                        	 <a class="dropdown-item" href="profile">
+                                        	 <a class="dropdown-item" href="u_profile">
                                        <img src="images/icons/manage_accounts_black.png" alt="" width="18">   ดูและแก้ไขข้อมูลส่วนตัว
                                         </a>
                                         <a class="dropdown-item" href="myshop" >
