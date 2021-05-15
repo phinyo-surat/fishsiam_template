@@ -11,8 +11,8 @@
        
                 
                         <div class="row">
-                            <div class="col-md-1">
-                                <span class="avatar avatar-xxl bradius" style="background-image: url(assets/images/faces/male/7.jpg)"></span>
+                            <div class="col-md-2">
+                                <span class="avatar avatar-xxl bradius" style="background-image: url(assets/images/faces/male/7.jpg) " ></span>
                             </div>
                         <div class="col-md-4">
                                 <h3 class="mb-1 ">สมชาย มีดวง</h3>

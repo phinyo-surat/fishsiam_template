@@ -1,4 +1,5 @@
-<div class="col-md-3">
+
+<div class="col-lg-3 col-sm-12" >
                  
 
                     <div class="card">
@@ -14,14 +15,14 @@
                                             
                                         </tr>
                                         <tr>
-                                        <td><a href="u_"><img src="images/icons/add_black.png" alt="" width="20"> ที่อยู่ของฉัน</a></td>
+                                        <td><a href="u_address"><img src="images/icons/add_black.png" alt="" width="20"> ที่อยู่ของฉัน</a></td>
                                             <td class="text-right">
                                                 
                                             </td>
                                             
                                         </tr>
                                         <tr>
-                                            <td><a href="#"><img src="images/icons/redeem_black.png" alt="" width="20"> เปลี่ยนรหัสผ่าน</a></td>
+                                            <td><a href="u_editpass"><img src="images/icons/redeem_black.png" alt="" width="20"> เปลี่ยนรหัสผ่าน</a></td>
                                             <td class="text-right">
                                                
                                             </td>
@@ -29,13 +30,13 @@
                                         <tr>
                                             <td><a href="#"><img src="images/icons/gavel_black.png" alt="" width="20"> ประวัติการซื้อขาย</a></td>
                                             <td class="text-right">
-                                               <span class="badge badge-success">฿300</span>
+                                              <!--  <span class="badge badge-success">฿300</span> -->
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><a href="#"><img src="images/icons/signal_cellular.png" alt="" width="20"> รายการโปรด</a></td>
                                             <td class="text-right">
-                                                <span class="badge badge-success">10</span>
+                                                <!-- <span class="badge badge-success">10</span> -->
                                             </td>
                                         </tr>
                                         <tr>

@@ -103,7 +103,7 @@
                             </li>
                            
                             <li class="trail-end">
-                                <a href="#" title="">ข้อมูลที่อยู่</a>
+                                <a href="#" title="">เปลี่ยนรหัสผ่านผู้ใช้งาน</a>
                             </li>
                         </ul><!-- /.breacrumbs -->
                     </div><!-- /.col-md-12 -->
@@ -118,58 +118,41 @@
 
 
                 <div class="container">
-                <div class="row">
+                <div class="row row-deck">
                 <?php include 'inc/menu-profile.php'; ?>
 
-
-                            <div class="col-lg-9">
+                 <div class="col-lg-9 col-sm-12">
                                 <form class="card">
                                     <div class="card-header">
-                                        <h3 class="card-title">ข้อมูลที่อยู่</h3>
+                                        <h3 class="card-title">เปลี่ยนรหัสผ่านผู้ใช้งาน</h3>
                                     </div>
                                     <div class="card-body">
                                         <div class="row">
                                             <div class="col-md-12">
+                                            <p>กรุณาอย่าเปิดเผยรหัสผ่านแก่คนอื่นๆ เพื่อความปลอดภัยของบัญชีผู้ใช้คุณเอง</p>
+                                             </div> 
+
+                                             <div class="col-md-12">
                                                     <div class="form-group">
-                                                    <label class="form-label">ชื่อที่ตั้ง :</label>
-                                                    <input type="text" class="form-control" placeholder="รหัสไปรษณีย์">
+                                                    <label class="form-label">รหัสผ่านปัจจุบัน :</label>
+                                                    <input type="password" class="form-control" placeholder="" required="">
                                                 </div>
                                             </div>
 
                                             <div class="col-md-12">
                                                     <div class="form-group">
-                                                    <label class="form-label">ที่อยู่ :</label>
-                                                    <input type="text" class="form-control" placeholder="รหัสไปรษณีย์">
+                                                    <label class="form-label">รหัสผ่านใหม่ :</label>
+                                                    <input type="password" class="form-control" placeholder="" required="">
                                                 </div>
                                             </div>
 
-                                             <div class="col-md-12">
-                                                <div class="form-group">
-                                                    <label class="form-label">จังหวัด :</label>
-                                                    <select class="form-control custom-select">
-                                                        <option value="0">--เลือก--</option>
-                                                        <option value="1">กรุงเทพมหานคร</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                             <div class="col-md-12">
-                                                <div class="form-group">
-                                                    <label class="form-label">เขต/อำเภอ : </label>
-                                                    <select class="form-control custom-select">
-                                                        <option value="0">--เลือก--</option>
-                                                        <option value="1">มีนบุรี</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-
-                                            
-
-                                           <div class="col-md-12">
+                                            <div class="col-md-12">
                                                     <div class="form-group">
-                                                    <label class="form-label">รหัสไปรษณีย์ :</label>
-                                                    <input type="text" class="form-control" placeholder="รหัสไปรษณีย์">
+                                                    <label class="form-label">ยืนยันรหัสผ่านใหม่ :</label>
+                                                    <input type="password" class="form-control" placeholder="" required="">
                                                 </div>
                                             </div>
+                                           
                                       
                                           
                                            
@@ -179,11 +162,20 @@
                                     </div>
                                     <div class="card-footer text-right">
                                         <button type="submit" class="btn btn-primary">บันทึก</button>
+
+
+
                                     </div>
                                 </form>
 
 
                             </div>
+
+                    </div>
+                                          
+
+
+                           
                         </div>
                         </div>
                                          
@@ -250,72 +242,4 @@
     </body> 
 </html>
 
-<!-- <script language=JavaScript>
 
-var message="ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม";
-
-function clickIE() {if (document.all) {alert(message);return false;}}
-function clickNS(e) {if
-(document.layers||(document.getElementById&&!document.all)) {
-if (e.which==2||e.which==3) {alert(message);return false;}}}
-if (document.layers)
-{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
-else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
-
-document.oncontextmenu=new Function("return false")
-
-</script> -->
-
- <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-  
-     <img src="images/banner_boxes/banner-4.jpg" alt="">
-     <div class="row">
-     <div class="col-md-1">
-        </div>
-        <div class="col-md-10">
-      <div class="modal-body">
-        <form>
-          <div class="form-group">
-            <label for="recipient-name" class="col-form-label">ชื่อผู้ใช้งาน :</label>
-            <input type="text" class="form-control" id="recipient-name">
-          </div>
-         <div class="form-group">
-            <label for="recipient-name" class="col-form-label">รหัสผ่าน :</label>
-            <input type="password" class="form-control" id="recipient-name">
-          </div>
-          <center>หรือ <br>
-   
-            <div class="col-md-12">
-                                                <center>
-                                                    <button type="button" class="btn btn-facebook"><i class="fa fa-facebook mr-2"></i>เข้าสู่ระบบด้วย Facebook</button>
-                                                </center>
-                                                <br>
-
-                                               
-                                                
-                                            </div>
-          
-            
-
-      </center>
-
-
-        </form>
-      </div>
-      </div>
-     
-
-       <div class="col-md-1">
-        </div>
-
-        </div>
-
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">ยกเลิก</button>
-        <button type="button" class="btn btn-warning">เข้าสู่ระบบ</button>
-      </div>
-    </div>
-  </div>
-</div>
