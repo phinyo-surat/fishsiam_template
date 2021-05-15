@@ -7,14 +7,14 @@
                                     </div>
                                     <table class="table card-table">
                                         <tr>
-                                            <td><img src="images/icons/settings_black.png" alt="" width="20">  แก้ไขข้อมูลร้านค้า</td>
+                                            <td><a href="edit-myshop"><img src="images/icons/settings_black.png" alt="" width="20">  แก้ไขข้อมูลร้านค้า</a></td>
                                             <td class="text-right">
                                                
                                             </td>
                                             
                                         </tr>
                                         <tr>
-                                        <td><a href="onboard.html"><img src="images/icons/add_black.png" alt="" width="20">  เพิ่มสินค้าใหม่</a></td>
+                                        <td><a href="generalist"><img src="images/icons/add_black.png" alt="" width="20">  เพิ่มสินค้าใหม่</a></td>
                                             <td class="text-right">
                                                 
                                             </td>

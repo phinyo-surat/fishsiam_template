@@ -243,7 +243,7 @@
 
                                         <div class="col-md-12 col-lg-12">
                                                 <div class="form-group">
-                                                    <label class="form-label">หัวข้อสินค้าที่คุณต้องการลงขาย</label>
+                                                    <label class="form-label">หัวข้อสินค้า</label>
                                                     <input type="text" class="form-control" name="" placeholder="ชื่อสินค้า เช่น ปลาสีส้มตัวเล็ก">
                                                     <p>ไม่ควรใส่อักขระพิเศษ เช่น & * # ^</p>
                                                 </div>
@@ -251,7 +251,7 @@
 
                                         <div class="col-md-12 col-lg-12">
                                             <div class="form-group ">
-                                            <label class="form-label">เลือกหมวดหมู่ให้ตรงกับสินค้า</label>
+                                            <label class="form-label">หมวดหมู่สินค้า</label>
                                             <select class="form-control select2 custom-select" data-placeholder="Choose one">
                                                 <option label="เลือกประเภทปลา">
                                                 </option>
@@ -266,7 +266,7 @@
 
                                         <div class="col-md-12 col-lg-12">
                                                 <div class="form-group">
-                                                    <label class="form-label">ระบุราคาที่เหมาะสม</label>
+                                                    <label class="form-label">ราคาสินค้า</label>
                                                     <input type="text" class="form-control" name="" placeholder="ระบุราคาเต็มของสินค้า / ค่าบริการ">
                                                 </div>
                                         </div>   
@@ -287,7 +287,7 @@
 
                                         <div class="col-md-12 col-lg-12">
                                             <div class="form-group ">
-                                            <label class="form-label">ระบุพื้นที่ของสินค้า (จังหวัด)</label>
+                                            <label class="form-label">พื้นที่ของสินค้า (จังหวัด)</label>
                                             <select class="form-control select2 custom-select" data-placeholder="เลือกจังหวัด">
                                                 <option label="เลือกจังหวัด">
                                                 </option>
@@ -298,7 +298,7 @@
 
                                         <div class="col-md-12 col-lg-12">
                                             <div class="form-group ">
-                                            <label class="form-label">ระบุพื้นที่ของสินค้า (เขต/อำเภอ)</label>
+                                            <label class="form-label">พื้นที่ของสินค้า (เขต/อำเภอ)</label>
                                             <select class="form-control select2 custom-select" data-placeholder="เลือกเขต/อำเภอ">
                                                 <option label="เลือกเขต/อำเภอ">
                                                 </option>
