@@ -225,12 +225,13 @@
                                             <div class="dropdown-divider"></div>
                                         </div>
                                         <div class="text-left">
+                                        	 <a class="dropdown-item" href="profile">
+                                       <img src="images/icons/manage_accounts_black.png" alt="" width="18">   ดูและแก้ไขข้อมูลส่วนตัว
+                                        </a>
                                         <a class="dropdown-item" href="myshop" >
                                           <img src="images/icons/store_blac.png" alt="" width="18">   ร้านค้าของฉัน
                                         </a>
-                                        <a class="dropdown-item" href="profile">
-                                       <img src="images/icons/manage_accounts_black.png" alt="" width="18">   ดูและแก้ไขข้อมูลส่วนตัว
-                                        </a>
+                                       
                                         <a class="dropdown-item" href="mypurchases">
                                             <span class="float-right"><span class="badge badge-primary">6</span></span>
                                          <img src="images/icons/local_mall_black.png" alt="" width="18">      การซื้อของฉัน

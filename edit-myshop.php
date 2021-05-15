@@ -4,7 +4,7 @@
         <!-- Basic Page Needs -->
         <meta charset="UTF-8">
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-        <title>ข้อมูลส่วนตัว | ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม</title>
+        <title>ข้อมูลร้านค้า | ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม</title>
 
         <meta name="author" content="Fishsiam">
         <meta name="keywords" content="แพลตฟอร์ม,ตลาดอิเล็กทรอนิกส์,ปลาแห่งสยาม,สยาม,ปลาสวยงาม , ปลากัด, ปลาไทย">
@@ -103,7 +103,7 @@
                             </li>
                            
                             <li class="trail-end">
-                                <a href="#" title="">ข้อมูลส่วนตัว</a>
+                                <a href="#" title="">แก้ไขข้อมูลร้านค้า</a>
                             </li>
                         </ul><!-- /.breacrumbs -->
                     </div><!-- /.col-md-12 -->
@@ -168,13 +168,13 @@
 
                 <div class="container">
                 <div class="row">
-                <?php include 'inc/menu-profile.php'; ?>
+                <?php include 'inc/menu-setting.php'; ?>
 
 
                             <div class="col-lg-9">
                                 <form class="card">
                                     <div class="card-header">
-                                        <h3 class="card-title">ข้อมูลผู้ใช้</h3>
+                                        <h3 class="card-title">แก้ไขข้อมูลร้านค้า</h3>
                                     </div>
                                     <div class="card-body">
                                         <div class="row">
@@ -183,104 +183,72 @@
                                            
                                             <div class="col-sm-6 col-md-6">
                                                 <div class="form-group">
-                                                    <label class="form-label">ชื่อจริง</label>
-                                                    <input type="text" class="form-control" placeholder="ชื่อจริง">
+                                                    <label class="form-label">ชื่อจริง *</label>
+                                                    <input type="text" class="form-control" placeholder="ชื่อจริง" required="">
                                                 </div>
                                             </div>
                                             <div class="col-sm-6 col-md-6">
                                                 <div class="form-group">
-                                                    <label class="form-label">นามสกุล</label>
-                                                    <input type="text" class="form-control" placeholder="นามสกุล">
+                                                    <label class="form-label">นามสกุล *</label>
+                                                    <input type="text" class="form-control" placeholder="นามสกุล" required="">
                                                 </div>
                                             </div>
                                             <div class="col-sm-6 col-md-6">
                                                 <div class="form-group">
-                                                    <label class="form-label">เบอร์โทรศัพท์</label>
-                                                    <input type="number" class="form-control" placeholder="เบอร์โทรศัพท์">
+                                                    <label class="form-label">เบอร์โทรศัพท์ *</label>
+                                                    <input type="number" class="form-control" placeholder="เบอร์โทรศัพท์" required="">
                                                 </div>
                                             </div>
                                             <div class="col-sm-6 col-md-6">
                                                 <div class="form-group">
-                                                    <label class="form-label">อีเมล</label>
-                                                    <input type="email" class="form-control" placeholder="อีเมล">
+                                                    <label class="form-label">อีเมล *</label>
+                                                    <input type="email" class="form-control" placeholder="อีเมล" required="">
                                                 </div>
                                             </div>
-                                             <div class="col-md-4">
+                                            <div class="col-sm-12 col-md-12">
                                                 <div class="form-group">
-                                                    <label class="form-label">จังหวัด</label>
-                                                    <select class="form-control custom-select">
-                                                        <option value="0">--เลือก--</option>
-                                                        <option value="1">กรุงเทพมหานคร</option>
-                                                    </select>
+                                                    <label class="form-label">ชื่อร้านค้า *</label>
+                                                    <input type="text" class="form-control" placeholder="อีเมล" required="">
                                                 </div>
                                             </div>
-                                             <div class="col-md-4">
+                                            <div class="col-sm-12 col-md-12">
                                                 <div class="form-group">
-                                                    <label class="form-label">เขต/อำเภอ</label>
-                                                    <select class="form-control custom-select">
-                                                        <option value="0">--เลือก--</option>
-                                                        <option value="1">มีนบุรี</option>
-                                                    </select>
+                                                    <label class="form-label">ที่อยู่ร้านค้า (บ้านเลขที่,ห้องเลขที่,ตึก,ชื่อถนน) *</label>
+                                                    <input type="text" class="form-control" placeholder="อีเมล" required="">
                                                 </div>
                                             </div>
-                                            <div class="col-sm-4 col-md-4">
-                                   
-                                                    <div class="form-group">
-                                                    <label class="form-label">รหัสไปรษณีย์</label>
-                                                    <input type="text" class="form-control" placeholder="รหัสไปรษณีย์">
-                                                
+                                            <div class="col-sm-12 col-md-12">
+                                                <div class="form-group">
+                                                    <label class="form-label">URL ร้านค้าบน Facebook ของคุณ</label>
+                                                    <input type="text" class="form-control" placeholder="อีเมล" required="">
                                                 </div>
                                             </div>
+
+                                              <div class="col-md-12 col-lg-12">
+                                                <div class="form-group">
+                                                    <label class="form-label">เอกสารยืนยันมาตราฐาน GAP</label>
+                                                   <input type="file" class="dropify" data-height="180" />
+                                                </div>
+                                        </div>  
                                             
                                          
                                             
                                            
-                                            <div class="col-md-12">
-                                                <div class="form-group mb-0">
-                                                    <label class="form-label">รายละเอียดที่อยู่</label>
-                                                    <textarea rows="5" class="form-control" placeholder="เลขห้อง, อาคาร, หมู่บ้าน, ถนน, ตำบล"></textarea>
-                                                </div>
-                                            </div>
+                                          
+
+
                                         </div>
                                     </div>
                                     <div class="card-footer text-right">
-                                        <button type="submit" class="btn btn-primary">บันทึก</button>
+                                        <button type="submit" class="btn btn-primary"  >บันทึก</button>
                                     </div>
                                 </form>
-                                <div class="card">
-                                    <div class="card-header">
-                                        <h3 class="card-title">รายการโปรด</h3>
-                                    </div>
-                                    <div class="table-responsive">
-                                        <table class="table card-table table-vcenter text-nowrap">
-                                            <thead>
-                                                <tr>
-                                                    <th>ชื่อสินค้า</th>
-                                                    <th>ชื่อร้าน</th>
-                                                    <th>วันที่</th>
-                                                    <th>สถานะ</th>
-                                                    <th>ราคา</th>
-                                                    <th></th>
-                                                </tr>
-                                            </thead>
-                                            <tbody>
 
-                                                <tr>
-                                                    <td><a href="store.html" class="text-inherit">ปลาคร๊าบ พูดเพราะ</a></td>
-                                                    <td>เจ๊วรรณเลี้ยงปลา</td>
-                                                     <td>28 May 2018</td>
-                                                    <td><span class="status-icon bg-success"></span>มีสินค้า</td>
-                                                    <td>฿87</td>
-                                                    <td class="text-right">
-                                                        <a class="icon" href="javascript:void(0)"></a>
-                                                        <a href="javascript:void(0)" class="btn btn-danger btn-sm"><i class="fa fa-trash"></i> Delete</a>
-                                                    </td>
-                                                </tr>
-                                             
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
+
+
+                               
+
+
                             </div>
                         </div>
                         </div>
