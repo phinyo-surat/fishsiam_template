@@ -238,6 +238,8 @@ button:focus {
 	outline:none;
 }
 
+
+
 button,
 input[type="button"],
 input[type="reset"],
@@ -15413,5 +15415,71 @@ a.tag-addon:hover {
 	margin-bottom:0;
 }
 
+
+.button-chat {
+  background-color: #0080fe;
+ 
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button-chat:hover {
+  background-color: orange;
+  color: #fff;
+}
+
+
+.button-call {
+  background-color: orange;
+
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button-call:hover {
+  background-color: orange;
+  color: #fff;
+}
+
+.button-bid {
+  background-color: orange;
+
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button-bid:hover {
+  background-color: orange;
+  color: #fff;
+}
+
+
+.button-cancel {
+  background-color: rgb(217, 59, 66) ;
+
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button-cancel:hover {
+  background-color: rgb(217, 59, 66) ;
+  color: #fff  ;
+}
 
 

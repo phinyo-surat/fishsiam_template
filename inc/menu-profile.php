@@ -34,7 +34,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td><a href="#"><img src="images/icons/signal_cellular.png" alt="" width="20"> รายการโปรด</a></td>
+                                            <td><a href="u_favorite"><img src="images/icons/signal_cellular.png" alt="" width="20"> รายการโปรด</a></td>
                                             <td class="text-right">
                                                 <!-- <span class="badge badge-success">10</span> -->
                                             </td>

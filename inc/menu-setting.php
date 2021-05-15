@@ -1,4 +1,4 @@
-<div class="col-md-3">
+<div class="col-lg-3 col-sm-12">
                  
 
                     <div class="card">
@@ -23,19 +23,19 @@
                                         <tr>
                                             <td><img src="images/icons/redeem_black.png" alt="" width="20"> รายการสินค้า (ขาย)</td>
                                             <td class="text-right">
-                                                <span class="badge badge-warning">30</span>
+                                                <!-- <span class="badge badge-warning">30</span> -->
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><img src="images/icons/gavel_black.png" alt="" width="20"> รายการสินค้า (ประมูล)</td>
                                             <td class="text-right">
-                                                <span class="badge badge-warning">20</span>
+                                               <!--  <span class="badge badge-warning">20</span> -->
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><img src="images/icons/signal_cellular.png" alt="" width="20"> สรุปยอดการขาย</td>
                                             <td class="text-right">
-                                                <span class="badge badge-success">฿300</span>
+                                               <!--  <span class="badge badge-success">฿300</span> -->
                                             </td>
                                         </tr>
                                         <tr>

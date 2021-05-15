@@ -17,62 +17,19 @@
 		<link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 		<link rel="shortcut icon" href="favicon/favicon.png">
 
+		<!-- Facebook Propertie -->
+        <meta property="og:title" content="ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม" />
+            <meta property="og:site_name" content="www.thesiamfish.com" />
+            <meta property="og:url" content="www.thesiamfish.com" />
+            <meta property="og:description" content="แพลตฟอร์ม “ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม” จัดทำเพื่อเป็นตัวกลางให้ผู้ซื้อและผู้ขาย ได้มาพบปะกันซื้อขาย ประมูลสินค้า " />
+            <meta property="og:image" content="/share_fb.jpg" />
+        <meta property="fb:app_id" content="" />
+ 
+
 
 	</head>
 
-	<style>
-.button-chat {
-  background-color: #0080fe;
- 
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
 
-.button-chat:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-
-.button-call {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-call:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-.button-bid {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-bid:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-
-
-</style>
 
 	<body class="header_sticky">
 		<div class="boxed">
