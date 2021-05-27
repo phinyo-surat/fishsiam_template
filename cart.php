@@ -22,62 +22,11 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 
         <link rel="shortcut icon" href="favicon/favicon.png">
-        <link href="stylesheets/dashboard.css" rel="stylesheet" />
 
 
 
     </head>
-    <style>
-.button-chat {
-  background-color: #0080fe;
- 
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
 
-.button-chat:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-
-.button-call {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-call:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-.button-bid {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-bid:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-</style>
 
     <body class="header_sticky">
         <div class="boxed">
@@ -117,8 +66,10 @@
             </div><!-- /.container -->
         </section><!-- /.flat-breadcrumb -->
 
-            
-         <section class="flat-account background">
+
+
+
+            <section class="flat-account background">
             <div class="container">
                         <div class="row">
                             <div class="col-12">
@@ -267,6 +218,8 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.flat-shop-cart -->
+
+
                             </div>         
 
                         </div>
@@ -274,6 +227,122 @@
 
            </div>                 
             </section>
+
+            <section class="flat-account background">
+            <div class="container">
+                        <div class="row">
+                            <div class="col-12">
+
+                                <form  method="post" class="card">
+                                    <div class="card-header bg-primary br-tr-7 br-tl-7">
+                                        <h3 class="card-title text-white">ตะกร้าสินค้า</h3>
+                                    </div>
+
+                                    <div class="card-body">
+                                       
+
+                                       <section class="flat-shop-cart">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="flat-row-title style1">
+                            <h3>รายการสั่งซื้อทั้งหมด</h3>
+                        </div>
+                        <div class="table-cart">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>ชื่อสินค้า</th>
+                                        <th>จำนวน</th>
+                                        <th>ราคา</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <div class="img-product">
+                                                <img src="images/product/other/12.jpg" alt="">
+                                            </div>
+                                            <div class="name-product">
+                                                 ปลาสีส้มตัวเล็ก<br />ร้านเจ๊ปลา แดนไทย
+                                            </div>
+                                            <div class="price">
+                                               ฿30
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </td>
+                                        <td>
+                                            <div class="quanlity">
+                                                <span class="btn-down"></span>
+                                                <input type="number" name="number" value="5" min="1" max="100" placeholder="Quanlity">
+                                                <span class="btn-up"></span>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="total">
+                                                ฿30
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <a href="#" title="">
+                                                <img src="images/icons/delete.png" alt="">
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="img-product">
+                                                <img src="images/product/other/11.jpg" alt="">
+                                            </div>
+                                            <div class="name-product">
+                                                ปลาหมอสี ใจใหญ่<br />ร้านสมรักษ์ชอบเลี้ยงปลา
+                                            </div>
+                                            <div class="price">
+                                               ฿30
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </td>
+                                        <td>
+                                            <div class="quanlity">
+                                                <span class="btn-down"></span>
+                                                <input type="number" name="number" value="5" min="1" max="100" placeholder="Quanlity">
+                                                <span class="btn-up"></span>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="total">
+                                                ฿30
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <span>
+                                                <img src="images/icons/delete.png" alt="">
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                           
+
+
+                        </div><!-- /.table-cart -->
+                    </div><!-- /.col-lg-8 -->
+                    
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </section><!-- /.flat-shop-cart -->
+
+
+                            </div>         
+
+                        </div>
+                            </div>
+
+           </div>                 
+            </section>
+         
 
         
 

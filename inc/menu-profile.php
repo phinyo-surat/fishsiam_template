@@ -28,7 +28,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td><a href="#"><img src="images/icons/gavel_black.png" alt="" width="20"> ประวัติการซื้อขาย</a></td>
+                                            <td><a href="u_purchase"><img src="images/icons/gavel_black.png" alt="" width="20"> ประวัติการซื้อขาย</a></td>
                                             <td class="text-right">
                                               <!--  <span class="badge badge-success">฿300</span> -->
                                             </td>

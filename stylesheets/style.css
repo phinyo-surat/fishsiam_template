@@ -9371,7 +9371,7 @@ a.bg-white:hover, a.bg-white:focus, button.bg-white:hover, button.bg-white:focus
 	color: #fff !important;
 }
 .bg-gray {
-	background-color: #868e96 !important;
+	background-color: rgb(255 255 255 / 0%) !important
 }
 a.bg-gray:hover, a.bg-gray:focus, button.bg-gray:hover, button.bg-gray:focus {
 	background-color: #6c757d !important;
