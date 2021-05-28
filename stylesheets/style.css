@@ -272,7 +272,7 @@ input[type="submit"] {
 	display:inline-block;
 	color:#fff;
 	padding:0px 20px 0 20px;
-	/*height:48px;*/
+	height:48px;
 	line-height:42px;
 	font-size:14px;
 	color:#ffffff;
@@ -4525,9 +4525,9 @@ a.btn.disabled, fieldset:disabled a.btn {
 	pointer-events: none;
 }
 .btn-lg, .btn-group-lg>.btn {
-	padding: 0.5rem 1rem;
+	padding: 1.1rem 1rem;
 	font-size: 1.125rem;
-	line-height: 1.625;
+	line-height: 0.1;
 	border-radius: 3px;
 }
 .btn-sm, .btn-group-sm>.btn {
@@ -13001,7 +13001,7 @@ a.chip:hover {
 	border-right: 5px solid #f3f3f3;
 }
 .example {
-	/*padding: 1.5rem;*/
+	padding: 1.0rem;
 	border: 1px solid #eaeaea;
 	border-radius: 3px 3px 0 0;
 	font-size: 0.9375rem;
@@ -15044,7 +15044,7 @@ a.tag-addon:hover {
 }
 .item-card .cardbody {
     position: relative;
-    padding: 30px 15px;
+    /*padding: 30px 15px;*/
     border-radius: 0 0 .2rem .2rem;
 }
 .item-card .cardtitle span {
