@@ -21,57 +21,7 @@
         <link rel="shortcut icon" href="favicon/favicon.png">
 
     </head>
-    <style>
-.button-chat {
-  background-color: #0080fe;
  
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-chat:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-
-.button-call {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-call:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-.button-bid {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-bid:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-</style>
 
     <body class="header_sticky">
         <div class="boxed">
@@ -123,42 +73,91 @@
 
                 
                               <div class="col-lg-9">
-                                        <div class="card item-card">
-                                            <div class="card-body">
-                                                ร้านรักษ์ปลา <span class="tag tag-orange">แชท</span> <span class="tag tag-azure">ดูร้านค้า</span>
-                                                <div class="border p-0">
+              
+                <div class="row">
 
-                                                    <div class="row">
+                  <div class="col-lg-6">
+                    <div class="card item-card">
+                      <div class="card-body pb-0">
+                        <div class="text-center">
+                          ร้าน : รักษ์ปลาสวยงาม<br>
+                          <img src="images/slider/bg-product01.jpg" alt="img" class="img-fluid">
+                        </div>
+                        <div class="card-body cardbody">
+                          <div class="cardtitle">
+                            <p>ขนาด :</p>
+                            <p>จำนวน :</p>
+                            <p>วัน/เดือน/ปี :</p>
+                            <p>เลขคำสั่งซื้อ :</p>
+                            <p>ยอดคำสั่งซื้อ :</p>
+                          </div>
+                          <div class="cardprice">
+                            <span></span>
+                            <span>L</span>
+                            <span>1</span>
+                            <span>21 เม.ย. 64</span>
+                            <span>236545</span>
+                            <span>฿206</span>
+                          </div>
+                        </div>
+                      </div>              
+                     
+                      <div class="example text-center">
+                        <div class="btn-list">
+                          <a href="#" class="btn btn-outline-success">ให้คะแนน</a>
+                          <a href="#" class="btn btn-outline-warning">ดูคะแนนร้าน</a>
+                        </div>
+                      </div>
+                 
+                    </div>
+                  </div>
 
-                                                        <div class="col-md-3 pr-0">
-                                                            <br>
-                                                            <div class="text-center bg-gray">
-                                                                <img src="images/slider/bg-product01.jpg" alt="img" class="img-fluid">
-                                                            </div>
+                  <div class="col-lg-6">
+                    <div class="card item-card">
+                      <div class="card-body pb-0">
+                        <div class="text-center">
+                          ร้าน : รักษ์ปลาสวยงาม<br>
+                          <img src="images/slider/bg-product02.jpg" alt="img" class="img-fluid">
+                        </div>
+                        <div class="card-body cardbody">
+                          <div class="cardtitle">
+                            <p>ขนาด :</p>
+                            <p>จำนวน :</p>
+                            <p>วัน/เดือน/ปี :</p>
+                            <p>เลขคำสั่งซื้อ :</p>
+                            <p>ยอดคำสั่งซื้อ :</p>
+                          </div>
+                          <div class="cardprice">
+                            <span></span>
+                            <span>L</span>
+                            <span>1</span>
+                            <span>21 เม.ย. 64</span>
+                            <span>236545</span>
+                            <span>฿206</span>
+                          </div>
+                        </div>
+                      </div>              
+                     
+                      <div class="example text-center">
+                        <div class="btn-list">
+                          <a href="#" class="btn btn-outline-success">ให้คะแนน</a>
+                          <a href="#" class="btn btn-outline-warning">ดูคะแนนร้าน</a>
+                        </div>
+                      </div>
+                 
+                    </div>
+                  </div>
 
-                                                        </div>
-                                                        <div class="col-md-9 pl-0">
-                                                            <div class="card-body cardbody ">
-                                                                <div class="cardtitle">
+                
+               
 
-                                                                    <a class="card-title">ปลาการ์ตูน</a>
-                                                                    <span>ขนาด : เล็ก</span>
-                                                                    <span>จำนวน : 1 หน่วย</span>
-                                                                    <span>วันที่ : 12 เม.ย. 64</span>
-                                                                    <span>เวลา : 12:00 น.</span>
-                                                                </div>
-                                                                <div class="cardprice">
-                                                                    <span>หมายเลขคำสั่งซื้อ : </span>
-                                                                    <span>$799</span>
-                                                                </div>
-                                                            </div>
-                                                           
-                                                           
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+              
+
+                 
+               
+                </div>
+
+              </div>
                                     </div>
                    
 
