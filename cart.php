@@ -23,6 +23,15 @@
 
         <link rel="shortcut icon" href="favicon/favicon.png">
 
+         <!-- Facebook Propertie -->
+        <meta property="og:title" content="ศูนย์กลางปลาสวยงาม" />
+            <meta property="og:site_name" content="www.thesiamfish.com" />
+            <meta property="og:url" content="www.thesiamfish.com" />
+            <meta property="og:description" content="แพลตฟอร์ม “ตลาดอิเล็กทรอนิกส์” ปลาแห่งสยาม " />
+            <meta property="og:image" content="http://test.thesiamfish.com/theme/images/bg/share_fb.webp" />
+        <meta property="fb:app_id" content="2092729750869988" />
+    <!-- Tweet Propertie -->
+
 
 
     </head>
@@ -69,97 +78,57 @@
 
 
 
+
+
             <section class="flat-account background">
+
+
             <div class="container">
                         <div class="row">
-                            <div class="col-12">
 
-                                <form  method="post" class="card">
+                            <div class="col-md-12 col-xl-12">
+                                <div class="card">
                                     <div class="card-header bg-primary br-tr-7 br-tl-7">
-                                        <h3 class="card-title text-white">ตะกร้าสินค้า</h3>
-                                    </div>
-
-                                    <div class="card-body">
+            <h3 class="card-title text-white"> <img src="images/icons/storefront_white.svg" alt=""> บ้านรักษ์ปลาสวยงาม</h3>
                                        
-
-                                       <section class="flat-shop-cart">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8">
-                        <div class="flat-row-title style1">
-                            <h3>รายการสั่งซื้อทั้งหมด</h3>
-                        </div>
-                        <div class="table-cart">
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="table-cart">
                             <table>
                                 <thead>
                                     <tr>
                                         <th>ชื่อสินค้า</th>
-                                        <th>จำนวน</th>
-                                        <th>ราคา</th>
-                                        <th></th>
+                                        <th>ราคาต่อชิ้น</th>
+                                        <th>ราคารวม</th>
+                                        <th>แอคชั่น</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
                                         <td>
                                             <div class="img-product">
-                                                <img src="images/product/other/12.jpg" alt="">
+                                                <img src="images/slider/bg-product02.jpg" alt="">
                                             </div>
                                             <div class="name-product">
-                                                 ปลาสีส้มตัวเล็ก<br />ร้านเจ๊ปลา แดนไทย
+                                                 ปลาสีส้มตัวเล็ก<br />
                                             </div>
                                             <div class="price">
-                                               ฿30
+                                               3 หน่วย
                                             </div>
                                             <div class="clearfix"></div>
                                         </td>
                                         <td>
-                                            <div class="quanlity">
-                                                <span class="btn-down"></span>
-                                                <input type="number" name="number" value="5" min="1" max="100" placeholder="Quanlity">
-                                                <span class="btn-up"></span>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="total">
+                                              <div class="total">
                                                 ฿30
                                             </div>
                                         </td>
                                         <td>
-                                            <a href="#" title="">
-                                                <img src="images/icons/delete.png" alt="">
-                                            </a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="img-product">
-                                                <img src="images/product/other/11.jpg" alt="">
-                                            </div>
-                                            <div class="name-product">
-                                                ปลาหมอสี ใจใหญ่<br />ร้านสมรักษ์ชอบเลี้ยงปลา
-                                            </div>
-                                            <div class="price">
-                                               ฿30
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </td>
-                                        <td>
-                                            <div class="quanlity">
-                                                <span class="btn-down"></span>
-                                                <input type="number" name="number" value="5" min="1" max="100" placeholder="Quanlity">
-                                                <span class="btn-up"></span>
-                                            </div>
-                                        </td>
-                                        <td>
                                             <div class="total">
-                                                ฿30
+                                                ฿90
                                             </div>
                                         </td>
                                         <td>
-                                            <span>
-                                                <img src="images/icons/delete.png" alt="">
-                                            </span>
+                                           <a href="#" class="btn btn-outline-danger" >ลบสินค้า</a>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -169,179 +138,78 @@
 
 
                         </div><!-- /.table-cart -->
-                    </div><!-- /.col-lg-8 -->
-                    <div class="col-lg-4">
-                        <div class="cart-totals">
-                            <h3>รายการสั่งซื้อของ</h3>
-                            <form action="#" method="get" accept-charset="utf-8">
-                                <table>
-                                    <tbody>
-                                        <tr>
-                                            <td>รวม</td>
-                                            <td class="subtotal">฿60</td>
-                                        </tr>
-                                        <tr>
-                                            <td>การจัดส่ง</td>
-                                            <td class="btn-radio">
-                                                <div class="radio-info">
-                                                    <input type="radio" id="flat-rate" checked name="radio-flat-rate">
-                                                    <label for="flat-rate">ผู้ให้บริการ<span> ฿30 </span></label>
-                                                </div>
-                                                <div class="radio-info">
-                                                    <input type="radio" id="free-shipping" name="radio-flat-rate">
-                                                    <label for="free-shipping">ฟรีค่าจัดส่ง</label>
-                                                </div>
-                                                <!-- <div class="btn-shipping">
-                                                    <a href="#" title="">Calculate Shipping</a>
-                                                </div> -->
-                                            </td><!-- /.btn-radio -->
-                                        </tr>
-                                        <tr>
-                                            <td>รวมทั้งหมด</td>
-                                            <td class="price-total">฿70</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
+
+
+
+
+                                    </div>
+                                    <div class="card-footer">
+                                        ส่วนลดค่าจัดส่ง ฿30 เมื่อขั้นต่ำถึง ฿0 | 
+
+                                       <a href="#" class="btn btn-outline-success">ไปที่ร้าน</a>
+                                       <a href="#" class="btn btn-outline-info">แชทร้าน</a>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="col-lg-12">
                               
 
-                                 <div class="btn-update">
-                                    <a href="cart" class="order" title="">ปรับปรุงสินค้าในตะกร้า</a>
-                                </div><!-- /.btn-order -->
-
-                                 <div class="btn-order">
-                                    <a href="checkout" class="order" title="">สั่งซื้อและชำระเงิน</a>
-                                </div><!-- /.btn-order -->
-
-                            </form><!-- /form -->
-                        </div><!-- /.cart-totals -->
-                    </div><!-- /.col-lg-4 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.flat-shop-cart -->
 
 
-                            </div>         
+                <div class="card ">
+                    <div class="card-header bg-primary br-tr-7 br-tl-7">
+                        <div class="card-title text-white"><img src="images/icons/price_change_white.svg" alt=""> สรุปคำสั่งซื้อ</div>
+                    </div>
 
-                        </div>
-                            </div>
-
-           </div>                 
-            </section>
-
-            <section class="flat-account background">
-            <div class="container">
-                        <div class="row">
-                            <div class="col-12">
-
-                                <form  method="post" class="card">
-                                    <div class="card-header bg-primary br-tr-7 br-tl-7">
-                                        <h3 class="card-title text-white">ตะกร้าสินค้า</h3>
-                                    </div>
 
                                     <div class="card-body">
-                                       
-
-                                       <section class="flat-shop-cart">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="flat-row-title style1">
-                            <h3>รายการสั่งซื้อทั้งหมด</h3>
-                        </div>
-                        <div class="table-cart">
-                            <table>
-                                <thead>
-                                    <tr>
-                                        <th>ชื่อสินค้า</th>
-                                        <th>จำนวน</th>
-                                        <th>ราคา</th>
-                                        <th></th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                            <div class="img-product">
-                                                <img src="images/product/other/12.jpg" alt="">
+                                        <form class="text-left  product-cart m-t-20 mb-0">
+                                            <div class="row">
+                                                <div class="col-6"><input class="productcart form-control" type="text" placeholder="โค้ดส่วนลด"></div>
+                                                <div class="col-6"><a href="#" class="btn btn-primary btn-md">ตกลง</a></div>
                                             </div>
-                                            <div class="name-product">
-                                                 ปลาสีส้มตัวเล็ก<br />ร้านเจ๊ปลา แดนไทย
-                                            </div>
-                                            <div class="price">
-                                               ฿30
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </td>
-                                        <td>
-                                            <div class="quanlity">
-                                                <span class="btn-down"></span>
-                                                <input type="number" name="number" value="5" min="1" max="100" placeholder="Quanlity">
-                                                <span class="btn-up"></span>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="total">
-                                                ฿30
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <a href="#" title="">
-                                                <img src="images/icons/delete.png" alt="">
-                                            </a>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <div class="img-product">
-                                                <img src="images/product/other/11.jpg" alt="">
-                                            </div>
-                                            <div class="name-product">
-                                                ปลาหมอสี ใจใหญ่<br />ร้านสมรักษ์ชอบเลี้ยงปลา
-                                            </div>
-                                            <div class="price">
-                                               ฿30
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </td>
-                                        <td>
-                                            <div class="quanlity">
-                                                <span class="btn-down"></span>
-                                                <input type="number" name="number" value="5" min="1" max="100" placeholder="Quanlity">
-                                                <span class="btn-up"></span>
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <div class="total">
-                                                ฿30
-                                            </div>
-                                        </td>
-                                        <td>
-                                            <span>
-                                                <img src="images/icons/delete.png" alt="">
-                                            </span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-
-                           
 
 
-                        </div><!-- /.table-cart -->
-                    </div><!-- /.col-lg-8 -->
-                    
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.flat-shop-cart -->
+                                        </form>
+                                    </div>
 
 
-                            </div>         
+                                   
+                                    <div class="card-body">
+                                        <div class="table-responsive">
+                                            <table class="table table-bordered">
+                                                <tbody>
+                                                    <tr>
+                                                        <td>สินค้าในรถเข็น</td>
+                                                        <td class="text-right">5 หน่วย</td>
+                                                    </tr>
+                                                   
+                                                    <tr>
+                                                        <td><span>ยอดรวมการสั่งซื้อ</span></td>
+                                                        <td><h2 class="price text-right">฿159</h2></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <form class="text-center">
+                     <button type="button" class="btn btn-info btn-lg mt-2 m-b-20">เลือกสินค้าต่อ </button>                       
+                    <button type="button" onclick="location.href='checkout'" class="btn btn-primary btn-lg mt-2 m-b-20">สั่งสินค้า </button>
+                                                            
+                            
+                                        </form>
+                                    </div>
+                                </div>
 
-                        </div>
-                            </div>
+                                 </div>
+                                  </div>
 
            </div>                 
             </section>
+
+
          
 
         
