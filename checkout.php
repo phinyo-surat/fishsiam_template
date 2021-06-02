@@ -280,11 +280,11 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>ปลาสีส้มต้วเล็ก<br />ร้านเจ๊ปลา</td>
+                                            <td>ปลาสีส้มต้วเล็ก</td>
                                             <td>฿30</td>
                                         </tr>
                                         <tr>
-                                            <td>ปลาหมอสีใจใหญ่<br />ร้านสมรักษ์ชอบเลี้ยงปลา</td>
+                                            <td>ปลาหมอสีใจใหญ่</td>
                                             <td>฿30</td>
                                         </tr>
                                     </tbody>
@@ -328,7 +328,7 @@
                                     <label for="checked-order">ฉันได้อ่านและยอมรับข้อตกลงและกฏข้อระเบียบของเว็บไซต์นี้ <br>ข้อกำหนดและเงื่อนไข *</label>
                                 </div><!-- /.checkbox -->
                                 <div class="btn-order">
-                                    <a href="#" class="order" title="">สั่งซื้อ</a>
+                                    <a href="payment" class="order" title="">สั่งซื้อ</a>
                                 </div><!-- /.btn-order -->
                             </form>
                         </div><!-- /.cart-totals style2 -->

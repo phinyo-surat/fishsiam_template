@@ -5846,6 +5846,20 @@ input[type="checkbox"]:checked + label:before {
 	color:#f28b00;
 }
 
+.box-checkout .checkout-payment {
+	font-size:14px;
+	color:#484848;
+	padding:13px 20px 12px;
+	border:2px dotted #d4d4d4;
+	border-radius:10px;
+	margin-top:10px;
+	margin-bottom:28px;
+}
+
+.box-checkout .checkout-payment a {
+	color:#f28b00;
+}
+
 .billing-fields .fields-title h3,
 .shipping-address-fields .fields-title h3 {
 	font-size:16px;
