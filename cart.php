@@ -143,27 +143,6 @@
 
 
                                     </div>
-                                    <div class="card-footer">
-                                        ส่วนลดค่าจัดส่ง ฿30 เมื่อขั้นต่ำถึง ฿0 | 
-
-                                       <a href="#" class="btn btn-outline-success">ไปที่ร้าน</a>
-                                       <a href="#" class="btn btn-outline-info">แชทร้าน</a>
-                                    </div>
-                                </div>
-                            </div>
-
-
-
-                            <div class="col-lg-12">
-                              
-
-
-
-                <div class="card ">
-                    <div class="card-header bg-primary br-tr-7 br-tl-7">
-                        <div class="card-title text-white"><img src="images/icons/price_change_white.svg" alt=""> สรุปคำสั่งซื้อ</div>
-                    </div>
-
 
                                     <div class="card-body">
                                         <form class="text-left  product-cart m-t-20 mb-0">
@@ -184,7 +163,7 @@
                                                 <tbody>
                                                     <tr>
                                                         <td>สินค้าในรถเข็น</td>
-                                                        <td class="text-right">5 หน่วย</td>
+                                                        <td class="text-right">3 หน่วย</td>
                                                     </tr>
                                                    
                                                     <tr>
@@ -201,7 +180,24 @@
                             
                                         </form>
                                     </div>
+
+                                    <div class="card-footer">
+                                        ส่วนลดค่าจัดส่ง ฿30 เมื่อขั้นต่ำถึง ฿0 | 
+
+                                       <a href="#" class="btn btn-outline-success">ไปที่ร้าน</a>
+                                       <a href="#" class="btn btn-outline-info">แชทร้าน</a>
+                                    </div>
                                 </div>
+                            </div>
+
+
+
+                            <div class="col-lg-12">
+                              
+
+
+
+               
 
                                  </div>
                                   </div>
