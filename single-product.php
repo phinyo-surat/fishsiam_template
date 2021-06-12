@@ -12,6 +12,15 @@
         <!-- Mobile Specific Metas -->
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+         <!-- Facebook Propertie -->
+        <meta property="og:title" content="ศูนย์กลางปลาสวยงาม" />
+            <meta property="og:site_name" content="www.thesiamfish.com" />
+            <meta property="og:url" content="www.thesiamfish.com" />
+            <meta property="og:description" content="แพลตฟอร์ม “ตลาดอิเล็กทรอนิกส์” ปลาแห่งสยาม " />
+            <meta property="og:image" content="http://test.thesiamfish.com/theme/images/bg/share_fb.webp" />
+        <meta property="fb:app_id" content="" />
+    <!-- Tweet Propertie -->
+
         <!-- Boostrap style -->
         <link rel="stylesheet" type="text/css" href="stylesheets/bootstrap.min.css">
 
@@ -22,6 +31,8 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 
         <link rel="shortcut icon" href="favicon/favicon.png">
+
+
 
 
     </head>
@@ -84,15 +95,15 @@
                         <div class="flexslider">
                             <ul class="slides">
                                 <li data-thumb="images/product/flexslider/big-size-1.jpg">
-                                  <a href='#' id="zoom" class='zoom'><img src="images/product/flexslider/big-size-1.jpg" alt='' width='400' height='300' /></a>
+                                  <a href='#' id="zoom" class='zoom'><img src="images/product/flexslider/big-size-1.jpg" alt='' width='400' height='250' /></a>
                                   <span>ขาย</span>
                                 </li>
                                 <li data-thumb="images/product/flexslider/big-size-1.jpg">
-                                  <a href='#' id="zoom1" class='zoom'><img src="images/product/flexslider/big-size-1.jpg" alt='' width='400' height='300' /></a>
+                                  <a href='#' id="zoom1" class='zoom'><img src="images/product/flexslider/big-size-1.jpg" alt='' width='400' height='250' /></a>
                                 </li>
                                 <li data-thumb="images/product/flexslider/big-size-1.jpg">
-                                  <a href='#' id="zoom2" class='zoom'><img src="images/product/flexslider/big-size-1.jpg" alt='' width='400' height='300' /></a>
-                                  <span>NEW</span>
+                                  <a href='#' id="zoom2" class='zoom'><img src="images/product/flexslider/big-size-1.jpg" alt='' width='400' height='250' /></a>
+                                  <span>ขาย</span>
                                 </li>
                                
                               
@@ -153,7 +164,7 @@
                                    
                                 </div><!-- /.box-cart -->
                                 <div class="social-single">
-                                    <span>SHARE</span>
+                                    <span>เเชร์</span>
                                     <ul class="social-list style2">
                                         <li>
                                             <a href="#" title="">
@@ -269,8 +280,8 @@
                                        
                                         <button type="button" class="btn btn-rss mb-1 fa fa-comments">  พูดคุยกับผู้ขาย</button>
                                         <button type="button" class="btn btn-rss mb-1 fa fa-phone"> ดูเบอร์ผู้ขาย</button>
-                                        <br>
-                                        <font color="#32cd32" > <h5 align = 'right'>ร้านนี้ผ่านมาตรฐาน GAP</h5> </font>
+                                        <br><br>
+                                        <font color="#32cd32" > <h5 >ร้านนี้ผ่านมาตรฐาน GAP</h5> </font>
 
                                     </div>
                                 </div>
