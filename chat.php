@@ -28,58 +28,7 @@
 
 
     </head>
-    <style>
-
-.button-chat {
-  background-color: #0080fe;
- 
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-chat:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-
-.button-call {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-call:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-.button-bid {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-bid:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-</style>
+    
 
     <body class="header_sticky">
         <div class="boxed">
@@ -119,17 +68,48 @@
 
 
 
-        
+        <div class="col-md-12 col-xl-6">
+                                <div class="card">
+                                    <div class="card-header bg-primary br-tr-7 br-tl-7">
+                                        <h3 class="card-title text-white">คำสั่งซื้อ : 141623509774 </h3>
+                                        <div class="card-options ">
+                                           
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+
+                                        <div class="table-responsive">
+                                            <table class="table table-bordered">
+                                                <tbody>
+                                                     <td>สถานะ</td>
+                                            <td class="text-right">
+                                                <span class="badge badge-success">Pending</span>
+                                            </td>
+
+                                                    <tr>
+                                                        <td>จำนวน</td>
+                                                        <td><h4 class="text-right">2</h4></td>
+                                                    </tr>
+                                                    
+                                                    <tr>
+                                                        <td><span>ยอดที่ต้องชำระ</span></td>
+                                                        <td><h3 class="price text-right">฿72</h3></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                      
+                                    </div>
+                                    <div class="card-footer">
+
+                                       <a href="#" class="btn btn-outline-success">ดูคำสั่งซื้อ</a> 
+                                       <a href="#" class="btn btn-outline-info">ไปที่ร้าน</a>
+                                    </div>
+                                </div>
+                            </div>
 
 
-
-          <!-- <div class="row">
-            <div class="col-sm-3" align="center">สวัสดร</div>
-             <div class="col-sm-3" align="center">สวัสดร</div>
-         <div class="col-sm-3" align="center">สวัสดร</div>
-          <div class="col-sm-3" align="center">สวัสดร</div>
-
-</div> -->
 
 
             <?php include 'inc/footer.php'; ?>

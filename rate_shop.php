@@ -101,7 +101,12 @@
                                     </div>
                                     <div class="card-body">
 
-                                        <center> <h4>ให้คะแนนร้านค้า</h4></center> <br>
+
+                                        <center> 
+
+                                            <img src="./images/icons/stars-rating.webp" width="150">
+
+                                            <h4>ให้คะแนนร้านค้า</h4></center> <br>
                                        
                                      <div class='rating-stars text-center'>
     <ul id='stars'>
