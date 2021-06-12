@@ -48,30 +48,10 @@ border-radius: 4px;
   
 }
 
-.header:after {
-  content:"";
-  display:block;
-  height:1px;
-  background:#eee;
-  position:absolute; 
-  left:30%; right:30%;
-}
-
-.header h2 {
-  font-size:3em;
-  font-weight:300;
-  margin-bottom:0.2em;
-}
-
-.header p {
-  font-size:14px;
-}
 
 
 
-#a-footer {
-  margin: 20px 0;
-}
+
 
 .new-react-version {
   padding: 20px 20px;
