@@ -18,8 +18,13 @@
         <!-- Theme style -->
         <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
 
+
+        
+
         <!-- Reponsive -->
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
+
+        <link rel="stylesheet" type="text/css" href="stylesheets/rating-stars.css">
 
         <link rel="shortcut icon" href="favicon/favicon.png">
 
@@ -67,7 +72,7 @@
                             </li>
                            
                             <li class="trail-end">
-                                <a href="#" title="">ตะกร้าสินค้า</a>
+                                <a href="#" title="">ให้คะแนนร้านค้า</a>
                             </li>
                         </ul><!-- /.breacrumbs -->
                     </div><!-- /.col-md-12 -->
@@ -89,10 +94,14 @@
                             <div class="col-md-12 col-xl-12">
                                 <div class="card">
                                     <div class="card-header bg-primary br-tr-7 br-tl-7">
+
+
             <h3 class="card-title text-white"> <img src="images/icons/storefront_white.svg" alt=""> ให้คะแนนร้านค้า</h3>
                                        
                                     </div>
                                     <div class="card-body">
+
+                                        <center> <h4>ให้คะแนนร้านค้า</h4></center> <br>
                                        
                                      <div class='rating-stars text-center'>
     <ul id='stars'>
@@ -114,11 +123,18 @@
     </ul>
   </div>
 
+            <div class="form-box">
+                                        <label for="comment-contact">รายละเอียด</label>
+                                        <textarea id=""></textarea>
+                                    </div>
+
+                                    
 
 
-                                        <center><h3><img src="images/icons/icon-shop1.png" width="200"> <br>
-                                        ถึงเขาจะไม่ว่าง แต่เราว่างอยู่นะ</h3> <br>
-                                        <button type="button" onclick="location.href='#'" class="btn btn-primary btn-lg mt-2 m-b-20">ช็อปปิ้งกันเลย </button>
+
+                                        <center>
+
+                                        <button type="button" onclick="location.href='#'" class="btn btn-primary btn-lg mt-2 m-b-20">กลับหน้าหลัก </button>
                                     
                                         </center>
 

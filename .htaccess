@@ -1,11 +1,3 @@
-<FilesMatch ".(py|exe|php)$">
- Order allow,deny
- Deny from all
-</FilesMatch>
-<FilesMatch "\.php$">
- Order allow,deny
- Allow from all
-</FilesMatch>
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
