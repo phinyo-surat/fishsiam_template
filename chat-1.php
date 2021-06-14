@@ -78,28 +78,50 @@
 
 
         <div class="col-md-12 col-xl-6">
-                                <div class="card">
-                                    
+                               
+                                    <div class="card item-card">
                                     <div class="card-body">
 
-                                       <img src="images/icons/icon-bill.webp" width="25"> คำสั่งซื้อ : 151623489174 | 
-                                       <span class="badge badge-warning">อยู่ระหว่างชำระเงิน</span>
-                                       <!-- <span class="badge badge-success">สำเร็จ</span> --> <br> 
-                                       <img src="images/icons/5267196.webp" width="25"> จำนวนสินค้า : 1 รายการ<br>
-                                       <img src="images/icons/5267196.webp" width="25"> ราคารวม : 297 บาท<br>
+                                      
+                                      <div class="border p-0">
+                                                    <div class="row">
+                                                        <div class="col-md-2 pr-0">
+                                                            <div class="text-center bg-white">
+                                                                <img src="images/slider/bg-product03.jpg" alt="img" width="100" >
+                                                            </div>
 
+                                                        </div>
+                                                        <div class="col-md-7 pl-0">
+                                                            <div class="card-body cardbody ">
+                                                                <div class="cardtitle">
+                                                                    <a class="card-title">ปลาคราฟหุ่นดี</a>
+                                                                    <span>ราคา</span>
+                                                                </div>
+                                                                <div class="cardprice">
+                                                    <span class="badge badge-success"> <font color="#ffffff">มีสินค้า</font></span>
+                                                                    <span>฿72</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="rating-stars block border-top" id="rating" value="4">
+                                                               
+                                                            </div>
+                                                            <div class="card-body p-4 text-center">
+                                                                <button type="button" class="btn btn-warning btn-sm mb-1">สั่งซื้อ</button>
+                                       <button type="button" class="btn btn-info btn-sm mb-1">ข้อมูลเพิ่มเติม</button>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
 
 
 
 
                                       
                                     </div>
-                                    <div class="card-footer">
-
-                                       <button type="button" class="btn btn-warning btn-sm mb-1">ดูคำสั่งซื้อ</button>
-                                       <button type="button" class="btn btn-info btn-sm mb-1">ดูร้านค้า</button>
                                     </div>
-                                </div>
+                                  
+                               
                             </div>
 
 
