@@ -670,7 +670,7 @@
 									</div><br>
 
 									<a href="#" class="wishlist" title="">
-                                                                <img src="images/icons/wishlist.png" alt="">
+                         <i class="fa fa-heart-o fa-lg" data-toggle="tooltip" title="" data-original-title="fa fa-heart-o"></i>
                                     </a> &nbsp;&nbsp;
 					<a href="a001.html" class="button-bid btn-sm" >Bid Now</a> 
 
@@ -743,7 +743,7 @@
 									</div>
 									</div><br>
 									<a href="#" class="wishlist" title="">
-                                                                <img src="images/icons/wishlist.png" alt="">
+                  <i class="fa fa-heart-o fa-lg" data-toggle="tooltip" title="" data-original-title="fa fa-heart-o"></i>
                                     </a> &nbsp;&nbsp;
 					<a href="a001.html" class="button-bid btn-sm" >Bid Now</a>
 				</center>
@@ -811,7 +811,7 @@
 									</div>
 									</div><br>
 									<a href="#" class="wishlist" title="">
-                                                                <img src="images/icons/wishlist.png" alt="">
+                   <i class="fa fa-heart-o fa-lg" data-toggle="tooltip" title="" data-original-title="fa fa-heart-o"></i>
                                     </a> &nbsp;&nbsp;
 				<a href="a001.html" class="button-bid btn-sm" >Bid Now</a>
 				</center>
@@ -879,7 +879,7 @@
 									</div>
 									</div><br>
 									<a href="#" class="wishlist" title="">
-                                                                <img src="images/icons/wishlist.png" alt="">
+                   <i class="fa fa-heart-o fa-lg" data-toggle="tooltip" title="" data-original-title="fa fa-heart-o"></i>
                                     </a> &nbsp;&nbsp;
 				<a href="a001.html" class="button-bid btn-sm" >Bid Now</a>
 				</center>
@@ -947,7 +947,7 @@
 									</div>
 									</div><br>
 									<a href="#" class="wishlist" title="">
-                                                                <img src="images/icons/wishlist.png" alt="">
+                    <i class="fa fa-heart-o fa-lg" data-toggle="tooltip" title="" data-original-title="fa fa-heart-o"></i>
                                     </a> &nbsp;&nbsp;
 			<a href="a001.html" class="button-bid btn-sm" >Bid Now</a>
 				</center>
@@ -1015,7 +1015,7 @@
 									</div>
 									</div><br>
 									<a href="#" class="wishlist" title="">
-                                                                <img src="images/icons/wishlist.png" alt="">
+                      <i class="fa fa-heart-o fa-lg" data-toggle="tooltip" title="" data-original-title="fa fa-heart-o"></i>
                                     </a> &nbsp;&nbsp;
 					<a href="a001.html" class="button-bid btn-sm" >Bid Now</a>
 				</center>
