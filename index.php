@@ -220,7 +220,9 @@
 							<div class="imagebox style4">
 								<div class="box-image">
 									<a href="#" title="">
-										<img src="images/slider/logo-Shop01.jpg" alt="">
+										<div class="img-resize">
+										<img src="images/logos/LOGOWachira1984.jpeg" alt="">
+										</div>
 									</a>
 
 								</div><!-- /.box-image -->
@@ -269,7 +271,9 @@
 							<div class="imagebox style4">
 								<div class="box-image">
 									<a href="#" title="">
+										<div class="img-resize">
 										<img src="images/slider/logo-Shop03.jpg" alt="">
+										</div>
 									</a>
 
 								</div><!-- /.box-image -->
@@ -389,7 +393,7 @@
 									
 									<div class="product-name">
 										<p>รายละเอียด</p>
-									<a href="#" title="" > <h4>ปลาการ์ตูนส้มขาว</h4></a>
+									<a href="#" title="" > <h4>ปลากัดยักษ์ตวัใหญ่มากๆๆๆๆ</h4></a>
 										<p>หมวดหมู่ : ปลาทอง</p>
 										<p>ร้าน : ชอบปลาดอทคอม</p>
 										<p>บางกอกน้อย กรุงเทพมหานคร</p>

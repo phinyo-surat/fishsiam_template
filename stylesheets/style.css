@@ -477,7 +477,7 @@ h3 {
 }
 
 h4 {
-	font-size:18px;
+	font-size:16px;
 }
 
 .container {
@@ -15564,7 +15564,23 @@ pre {
 }
 img {
 	max-width: 100%;
+}
+div.img-resize img {
+	width: 90%;
+	height: auto;
+}
+
+div.img-resize {
+	width: 100%;
 	height: 100px;
+	overflow: hidden;
+	text-align: center;
+}
+
+
+.page-content img {
+    max-width: 100%;
+    height: auto!important;
 }
 .text-wrap {
 	font-size: 14px;
