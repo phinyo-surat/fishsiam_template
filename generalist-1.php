@@ -22,6 +22,13 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 
         <link rel="shortcut icon" href="favicon/favicon.png">
+        <!-- Facebook Propertie -->
+        <meta property="og:title" content="ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม" />
+            <meta property="og:site_name" content="www.thesiamfish.com" />
+            <meta property="og:url" content="www.thesiamfish.com" />
+            <meta property="og:description" content="แพลตฟอร์ม “ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม” จัดทำเพื่อเป็นตัวกลางให้ผู้ซื้อและผู้ขาย ได้มาพบปะกันซื้อขาย ประมูลสินค้า " />
+            <meta property="og:image" content="/share_fb.jpg" />
+        <meta property="fb:app_id" content="" />
 
 
     </head>
@@ -136,22 +143,24 @@
                         <h3 class="card-title">เพิ่มรายการสินค้าใหม่</h3>
                     </div>
                  
+                 <br>
 
                                         <div class="col-md-12 col-lg-12">
-
-                                            <section class="flat-row flat-accordion">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="accordion">
-                               <div class="accordion-toggle">
-                                <div class="toggle-title ">
-                                <!-- <div class="toggle-title active"> -->
-                                  <i class="fa fa-cube" data-toggle="tooltip" title="" data-original-title="fa fa-cube"></i> เพิ่มสินค้าใหม่
-                                </div>
-                                <div class="toggle-content">
-
-            <div class="col-md-12 col-lg-12">
+                                          
+                                          <div class="wrap-imagebox flat-imagebox">
+                                <div class="product-tab">
+                                    <ul class="tab-list">
+                                        <li class="active"> <i class="fa fa-cube" data-toggle="tooltip" title="" data-original-title="fa fa-cube"></i> เพิ่มสินค้าใหม่</li>
+                                        <li>  <i class="fa fa-gavel" data-toggle="tooltip" title="" data-original-title="fa fa-gavel"></i> เพิ่มสินค้าประมูล</li>
+                                        
+                                    </ul>   
+                                </div><!-- /.product-tab -->
+                                <div class="box-product">
+                                    <div class="row">
+                                        
+                                        
+                                        
+                                         <div class="col-md-12 col-lg-12">
                              <form  method="post" >
                                    
                                     <div class="form-group">
@@ -256,30 +265,27 @@
 
             </div> 
 
+                                    </div><!-- /.row -->
 
-                                </div>
-                            </div><!-- /.accordion-toggle -->
-                            <div class="accordion-toggle">
-                                <div class="toggle-title">
-                                   <i class="fa fa-gavel" data-toggle="tooltip" title="" data-original-title="fa fa-gavel"></i> เพิ่มสินค้าประมูล
-                                </div>
-                                <div class="toggle-content">
-                                   
+                                    <div class="row">
+                                        
+                                        
+                                        <div class="col-lg-4 col-sm-12">    
+                                        
 
 
+                                                า่า่า
 
-                                </div>
-                            </div><!-- /.accordion-toggle -->
-                        
-                         
-                           
-                          
-                           
-                        </div><!-- /.accordion -->
-                    </div><!-- /.col-md-12 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.flat-accordion -->
+
+                                        </div><!-- /.col-lg-4 col-sm-12 -->
+                                    </div><!-- /.row -->
+
+
+
+
+                                
+                                </div><!-- /.box-product -->
+                            </div><!-- /.wrap-imagebox flat-imagebox -->
 
                                                
                                         </div>   
