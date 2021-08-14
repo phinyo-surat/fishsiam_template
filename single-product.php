@@ -298,6 +298,181 @@
         </section><!-- /.flat-term-conditions -->
 
 
+        <section class="main-blog">
+                <div class="container">
+                    <div class="row">
+
+
+
+                        
+                       
+                         <div class="col-md-8 col-lg-9">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h3 class="card-title">คะแนนของสินค้า </h3>
+                                    </div> <br>
+
+                                    
+                                       
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="card widgets-cards">
+                                    <div class="card-body d-flex justify-content-center align-items-center">
+                                        <div class="col-2 p-0">
+                                             <div class="wrp text-wrapper">
+                                               <center> <p>4.8</p>
+                                                <p class="text-dark mt-1 mb-0">เต็ม 5</p>
+                                                <div class="queue">
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                </div>
+                                                </center>
+
+                                            </div>
+                                        </div>
+                                        <div class="col-10 p-0">
+                                            <div class="wrp text-wrapper">
+                                                <a href="#" class="btn btn-outline-success">ทั้งหมด</a>
+                                                <a href="#" class="btn btn-outline-success">5 ดาว (12)</a>
+                                                <a href="#" class="btn btn-outline-success">4 ดาว (10)</a>
+                                                <a href="#" class="btn btn-outline-success">3 ดาว (7)</a>
+                                                <a href="#" class="btn btn-outline-success">2 ดาว (2)</a>
+                                                <a href="#" class="btn btn-outline-success">1 ดาว (0)</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                          
+                 
+
+
+                                   
+
+                                    
+
+                            <div class="col-lg-12">
+                                <div class="card card-aside">
+                                 
+                                    <div class="card-body d-flex flex-column">
+                                        <h4><a href="#">ปลาสีส้ม ตัวเล็ก</a></h4>
+                                        <div class="text-muted">ราคาก็ไม่แพงรอของไม่นานคุ้มค่าาาาาาาาาา...</div>
+                                         <div class="queue">
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                </div>
+                                        <div class="d-flex align-items-center pt-5 mt-auto">
+
+                                            <div class="avatar  brround avatar-md mr-3" style="background-image: url(assets/images/faces/female/18.jpg)"></div>
+                                            <div>
+                                                <a href="#" class="text-default">w*****n</a>
+                                                <small class="d-block text-muted">2021-07-07 13:09</small>
+                                            </div>
+                                            <div class="ml-auto text-muted">
+                                                
+                                                <a href="javascript:void(0)" class="icon d-none d-md-inline-block ml-3"> มีประโยชน์กับคุณ? <i class="fa fa-thumbs-o-up"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                 <div class="card card-aside">
+                                 
+                                    <div class="card-body d-flex flex-column">
+                                        <h4><a href="#">ปลาสีส้ม ตัวเล็ก</a></h4>
+                                        <div class="text-muted">ราคาก็ไม่แพงรอของไม่นานคุ้มค่าาาาาาาาาา...</div>
+                                         <div class="queue">
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                </div>
+                                        <div class="d-flex align-items-center pt-5 mt-auto">
+
+                                            <div class="avatar  brround avatar-md mr-3" style="background-image: url(assets/images/faces/female/18.jpg)"></div>
+                                            <div>
+                                                <a href="#" class="text-default">w*****n</a>
+                                                <small class="d-block text-muted">2021-07-07 13:09</small>
+                                            </div>
+                                            <div class="ml-auto text-muted">
+                                                
+                                                <a href="javascript:void(0)" class="icon d-none d-md-inline-block ml-3"> มีประโยชน์กับคุณ? <i class="fa fa-thumbs-o-up"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+
+                 
+
+                                </div>
+                            </div>
+                 
+
+                        <div class="col-md-4 col-lg-3">
+                            <div class="sidebar left">
+                                <div class="widget widget-search">
+                                    <form action="#" method="get" accept-charset="utf-8">
+                                        <input type="text" name="widget-search" placeholder="Search">
+                                    </form>
+                                </div><!-- /.widget widget-search -->
+                               
+
+
+
+                                <div class="widget widget-products">
+                                    <div class="widget-title">
+                                        <h3>สินค้าขายดีประจำร้าน</h3>
+                                    </div>
+                                    <ul class="product-list">
+                                        <li>
+                                            <div class="img-product">
+                                                <a href="#" title="">
+                                                    <img src="images/blog/14.jpg" alt="">
+                                                </a>
+                                            </div>
+                                            <div class="info-product">
+                                                <div class="name">
+                                                    <a href="#" title="">ปลาส้มลายสวย <br />หมวดหมู่ : ปลาทอง</a>
+                                                </div>
+                                                <div class="queue">
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                                </div>
+                                                <div class="price">
+                                                    <span class="sale">฿ 300</span>
+                                                  
+                                                    <span class="regular">฿ 500</span>
+                                                </div>
+                                            </div>
+                                        </li> 
+
+                                      
+                                        
+                                    </ul>
+                                </div><!-- /.widget widget-products -->
+                                
+                            </div><!-- /.sidebar left -->
+                        </div><!-- /.col-md-4 col-lg-3 -->
+                    </div><!-- /.row -->
+                </div><!-- /.container -->
+            </section><!-- /.main-blog -->
+
+
+
+
 
 
 
