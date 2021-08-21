@@ -22,6 +22,15 @@
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 
         <link rel="shortcut icon" href="favicon/favicon.png">
+        <!-- Facebook Propertie -->
+        <meta property="og:title" content="ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม" />
+            <meta property="og:site_name" content="www.thesiamfish.com" />
+            <meta property="og:url" content="www.thesiamfish.com" />
+            <meta property="og:description" content="แพลตฟอร์ม “ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม” จัดทำเพื่อเป็นตัวกลางให้ผู้ซื้อและผู้ขาย ได้มาพบปะกันซื้อขาย ประมูลสินค้า " />
+            <meta property="og:image" content="/share_fb.jpg" />
+        <meta property="fb:app_id" content="" />
+ 
+
 
 
 
@@ -139,7 +148,7 @@
 
        
 
-
+        
 
               <section class="main-blog">
                 <div class="container">
@@ -152,60 +161,124 @@
                                     </div>
 
 
-                                    <div class="card-body">
+                                    <div class="card-body" >
         
 
-                                    <div class="owl-carousel-3">
+                                    <div class="owl-carousel-3" style="width: 100%; margin-right: 30px;">
                                         
-                                
-      
+                             
+                             
+              
+                               
+                
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish01.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
 
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish02.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div>
 
-        <div class="imagebox  v1">
-                <div class="row">                                 
-        <div class="col-sm-6" align="center" >
-            555<br>
-      ปลากัด
-        </div>
-      <div class="col-sm-6" align="center" >ปลาอโรวาน่า</div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish03.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish04.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish05.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                 <a href="#" target="_blank"><img src="assets/images/icon-fish06.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div> 
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish07.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish08.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div> 
+
+                 <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish09.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish10.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
                 </div>  
-        </div>
 
-         <div class="imagebox  v1">
-                <div class="row">                                 
-      <div class="col-sm-6" align="center" >ปลาหางนกยูง</div>
-      <div class="col-sm-6" align="center" >ปลาปอมปาดัวร์</div>
-                </div>  
-        </div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish11.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
 
-         <div class="imagebox  v1">
-                <div class="row">                                 
-      <div class="col-sm-6" align="center" >ปลาหมอสี</div>
-      <div class="col-sm-6" align="center" >ปลาทอง</div>
-                </div>  
-        </div>
-
-         <div class="imagebox  v1">
-                <div class="row">                                 
-      <div class="col-sm-6" align="center" >ปลาตระกูล Catfish</div>
-      <div class="col-sm-6" align="center" >ปลาเมท</div>
-                </div>  
-        </div>
-
-         <div class="imagebox style4 v1">
-                <div class="row">                                 
-      <div class="col-sm-6" align="center" >ปลาคราฟ</div>
-      <div class="col-sm-6" align="center" >กุ้ง</div>
-                </div>  
-        </div>
-
-         <div class="imagebox style4 v1">
-                <div class="row">                                 
-      <div class="col-sm-6" align="center" >ปลาสวยงาม</div>
-      <div class="col-sm-6" align="center" >ไม้น้า</div>
-                </div>  
-        </div>
-
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish12.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div>    
+        
 
 
                                     </div><!-- /.owl-carousel-3 -->
@@ -866,7 +939,7 @@
                                         </div><!-- /.social-single -->
 
                                             <div class="more-link">
-                                                <a href="#" title="">อ่านเพิ่มเติม
+                                                <a href="forum-01" title="">อ่านเพิ่มเติม
                                                     <span>
                                                         <img src="images/icons/right-2.png" alt="">
                                                     </span>
