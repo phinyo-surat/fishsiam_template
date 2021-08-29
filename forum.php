@@ -145,7 +145,7 @@
         </section><!-- /.flat-slider style2 -->
 
 
-
+        
        
 
         
@@ -289,7 +289,17 @@
                             </div>
                         </div>
                     </div>
+
+
+
+
+
                 </section>
+
+
+
+
+
 
 
         <section class="flat-row flat-imagebox style1">

@@ -2986,11 +2986,13 @@ ul.flat-infomation.style1 li img {
 }
 
 .box-owl-carousel .rows .imagebox.style1.v1 {
-	width:33.3333%;
+	width:49%;
 	float:left;
 	border-right:1px solid #e5e5e5;
 	min-height:auto;
 }
+
+
 
 .box-owl-carousel .rows .imagebox:hover {
 	border-color:transparent;
