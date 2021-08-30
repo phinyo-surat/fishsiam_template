@@ -29,7 +29,7 @@
             <meta property="og:description" content="แพลตฟอร์ม “ตลาดอิเล็กทรอนิกส์ปลาแห่งสยาม” จัดทำเพื่อเป็นตัวกลางให้ผู้ซื้อและผู้ขาย ได้มาพบปะกันซื้อขาย ประมูลสินค้า " />
             <meta property="og:image" content="/share_fb.jpg" />
         <meta property="fb:app_id" content="" />
- 
+        
 
 
 
@@ -127,8 +127,16 @@
             </div><!-- /.container -->
         </section><!-- /.flat-breadcrumb -->
 
-        <section class="flat-slider style2">
-            <div class="container">
+       
+
+         <section class="flat-slider style2">
+             <div class="container">
+        <div class="row row-cards row-deck">
+             
+                            <div class="col-lg-12 col-sm-12">
+                               
+                              
+
                 <div class="row">
                     <div class="col-md-12">
                         <div class="slider owl-carousel style2">
@@ -141,623 +149,267 @@
                         </div><!-- /.slider -->
                     </div><!-- /.col-md-12 -->
                 </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.flat-slider style2 -->
+         
+                               
+                            </div>
+
+                            
+                          
+                        </div>
+                        </div>
+                          </section>
 
 
-        
+
+
+
+
+        <section id="header" class="header">
+                <div class="header-bottom-blog">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <!-- <p class="navbar-brand" >เลือกห้องสนทนา</p> -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+    <ul class="navbar-nav mr-auto">
+    
+      <li class="nav-item dropdown " >
+        <a class="btn btn-rss dropdown-toggle"  href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          เลือกห้องสนทนา
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish01.jpg" width="30px"> ปลากัด</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish02.jpg" width="30px"> ปลาอะโรวาน่า</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish03.jpg" width="30px"> ปลาหางนกยูง</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish04.jpg" width="30px"> ปลาปอมปาดัวร์</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish05.jpg" width="30px"> ปลาหมอสี</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish06.jpg" width="30px"> ปลาทอง</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish07.jpg" width="30px"> ปลาแคทฟิช</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish08.jpg" width="30px"> ปลาคาร์ฟ</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish09.jpg" width="30px"> กุ้ง</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish10.jpg" width="30px"> ปลาสวยงาม</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish11.jpg" width="30px"> ไม้น้ำ</a>
+    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish12.jpg" width="30px"> อาหารปลา</a>
+          
+        </div>
+      </li> &nbsp;&nbsp;
+
+       <form class="form-inline my-3 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="ค้นหากระทู้" aria-label="Search">
+            <button class="button-bid btn-lg my-2 my-sm-0" type="submit">ค้นหา</button>
+        </form>
+
+
+    
+    </ul>
+
+
+       
+    </div>
+</nav>
+                            </div>
+                        </div>
+                    </div>
+</div>
+        </section>
+
+
+
+
+
+
+
+
+
+            
+            
+         
        
 
         
 
-              <section class="main-blog">
-                <div class="container">
-                    <div class="row">
-
-                <div class="col-md-12 col-xl-12">
-                                <div class="card">
-                                    <div class="card-header bg-primary br-tr-7 br-tl-7">
-                                        <h3 class="card-title text-white">เลือกห้อง</h3>
-                                    </div>
-
-
-                                    <div class="card-body" >
-        
-
-                                    <div class="owl-carousel-3" style="width: 100%; margin-right: 30px;">
-                                        
-                             
-                             
-              
-                               
-                
-                <div class="row">
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish01.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish02.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish03.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish04.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish05.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                 <a href="#" target="_blank"><img src="assets/images/icon-fish06.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="row">
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish07.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish08.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-                </div> 
-
-                 <div class="row">
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish09.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish10.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-                </div>  
-
-                <div class="row">
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish11.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-
-                    <div class="col-6">
-                        <div class="card">
-                                <center>
-                                <a href="#" target="_blank"><img src="assets/images/icon-fish12.webp" width="200"></a>
-                                </center>
-                        </div>
-                    </div>
-                </div>    
-        
-
-
-                                    </div><!-- /.owl-carousel-3 -->
-                             
-                                    </div>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            <br><br><br>
 
 
 
 
-
-                </section>
-
-
-
-
-
-
-
-        <section class="flat-row flat-imagebox style1">
+                <section class="flat-row flat-imagebox style1">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="box-wrap">
+                            <div class="box-wrap ">
                                 <div class="flat-row-title">
-                                    <h3>กระดานสนทนา</h3>
+    <div class="h4 m-r-12 text-nowrap">&nbsp;&nbsp;<b>กระดานสนทนา</b></div>
+    <div class="caption ">&nbsp;&nbsp;&nbsp;&nbsp;กระทู้ที่มีคนเปิดอ่านมากในขณะนี้</div>
                                 </div>
+
+                                <div class="rows">
+
+                                       
+
+    <ul class="pt-list pt-list__type-a  pt-list-item__full-title-mobile pt-list__2col">
+        
+        <li id="#" class="pt-list-item">
+            <div class="pt-list-item__title">
+                <h2>
+                    <a href="#" target="_blank">
+                        <i >
+                        </i>แหล่งแลกเปลี่ยนความรู้ด้านปลา ที่รวบรวมปลาทุกสายพันธุ์เอาไว้ในที่ Thesiamfish.com
+                    </a>
+                </h2>
+            </div>
+                    <a href="#" target="_blank">
+            <div class="pt-list-item__img img-thumbnail" style="background-image:url(https://fishsiam.thailoop.pro/images/icons/img-blog01.jpg)">
+            </div>
+                    </a>
+            <div class="pt-list-item__info">
+                    <a href="undefined">
+            <div class="img-thumbnail img-circle" style="background-image:url(#)">
+            </div>
+                    </a>
+            <h5 class="pt-li_ads">
+                <a href="javascript:void(0);" style="text-decoration: none;">Thesiamfish.com</a>
+            </h5>
+            </div>
+        </li>
+
+
+
+            
+        <li class="pt-list-item">
+            <div class="pt-list-item__title">
+                <h2>
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                        <i class="pantip-icons md-18 pt-ic-topic_type_question"></i>
+                       ปลากัดสวยงามหางสวยงามดูยังไงครับ...?
+                    </a>
+                </h2>
+            </div>
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                        <div class="pt-list-item__img img-thumbnail lazyloaded" style="background-image: url(&quot;https://fishsiam.thailoop.pro/images/icons/img-blog01.jpg&quot;);">
+                            
+                        </div>
+                    </a>
+                        <div class="pt-list-item__info">
+                            <a href="https://pantip.com/profile/5875316" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                <div class="img-thumbnail img-circle" style="background-image:url(https://p.ptcdn.info/610/013/000/5875316_16258965273883_m.jpg)">
+                                </div>
+                            </a>
+
+                            <h5><a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                สมาชิกหมายเลข 5875316
+                                </a>
+                            </h5>
+                            <span title="28 สิงหาคม 2564 เวลา 12:23 น.">2 ชั่วโมง</span>
+                        </div>
+                            <div class="pt-list-item__stats"><span class="pt-li_stats-comment">
+                               <i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></span>
+                                <span class="pt-li_stats-vote">
+                                <i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></span>     
+                            </div>
+        </li>
+
+        <li class="pt-list-item">
+            <div class="pt-list-item__title">
+                <h2>
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                        <i class="pantip-icons md-18 pt-ic-topic_type_question"></i>
+                       ปลากัดสวยงามหางสวยงามดูยังไงครับ...?
+                    </a>
+                </h2>
+            </div>
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                        <div class="pt-list-item__img img-thumbnail lazyloaded" style="background-image: url(&quot;https://fishsiam.thailoop.pro/images/icons/img-blog01.jpg&quot;);">
+                            
+                        </div>
+                    </a>
+                        <div class="pt-list-item__info">
+                            <a href="https://pantip.com/profile/5875316" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                <div class="img-thumbnail img-circle" style="background-image:url(https://p.ptcdn.info/610/013/000/5875316_16258965273883_m.jpg)">
+                                </div>
+                            </a>
+
+                            <h5><a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                สมาชิกหมายเลข 5875316
+                                </a>
+                            </h5>
+                            <span title="28 สิงหาคม 2564 เวลา 12:23 น.">2 ชั่วโมง</span>
+                        </div>
+                            <div class="pt-list-item__stats"><span class="pt-li_stats-comment">
+                               <i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></span>
+                                <span class="pt-li_stats-vote">
+                                <i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></span>     
+                            </div>
+        </li>
+
+        <li class="pt-list-item">
+            <div class="pt-list-item__title">
+                <h2>
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                        <i class="pantip-icons md-18 pt-ic-topic_type_question"></i>
+                       ปลากัดสวยงามหางสวยงามดูยังไงครับ...?
+                    </a>
+                </h2>
+            </div>
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                        <div class="pt-list-item__img img-thumbnail lazyloaded" style="background-image: url(&quot;https://fishsiam.thailoop.pro/images/icons/img-blog01.jpg&quot;);">
+                            
+                        </div>
+                    </a>
+                        <div class="pt-list-item__info">
+                            <a href="https://pantip.com/profile/5875316" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                <div class="img-thumbnail img-circle" style="background-image:url(https://p.ptcdn.info/610/013/000/5875316_16258965273883_m.jpg)">
+                                </div>
+                            </a>
+
+                            <h5><a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                สมาชิกหมายเลข 5875316
+                                </a>
+                            </h5>
+                            <span title="28 สิงหาคม 2564 เวลา 12:23 น.">2 ชั่วโมง</span>
+                        </div>
+                            <div class="pt-list-item__stats"><span class="pt-li_stats-comment">
+                               <i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></span>
+                                <span class="pt-li_stats-vote">
+                                <i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></span>     
+                            </div>
+        </li>
+
+
+
+
+               
+
+
+                         </ul>
+
+                         <a href="#" role="button" class="pt-block-more pt-block-more-type_b gtm-realtime-more gtm-realtime-page1 pt-accordion__label">
+                        <i class="fa fa-angle-down" data-toggle="tooltip" title="fa fa-bicycle"></i>
+                         &nbsp; ดูเพิ่มเติม &nbsp;
+                        <i class="fa fa-angle-down" data-toggle="tooltip" title="fa fa-bicycle"></i>
+                        </a>
+
+
+                                         
+                                    </div><!-- /.rows -->
                                 
-                                <div class="owl-carousel-12">
-                                    
-                                    <div class="box-owl-carousel">
-                                        <div class="rows">
-                                           
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-                                            
-
-                                           <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                           <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                            <div class="clearfix"></div>
-                                        </div><!-- /.rows -->
-                                        <div class="rows">
-                                            
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                            <div class="clearfix"></div>
-                                        </div><!-- /.rows -->
-                                    </div><!-- /.box-owl-carousel -->
-
-                                  
 
 
-
-
-                                    <div class="box-owl-carousel">
-                                        <div class="rows">
-                                            
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                            <div class="clearfix"></div>
-                                        </div><!-- /.rows -->
-                                        <div class="rows">
-                                            
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                          <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-
-                                            <div class="imagebox style1 v1">
-                                                <div class="box-image">
-                                                    <a href="#" title="">
-                                                        <img src="images/product/other/s01.jpg" alt="" width="100">
-                                                    </a>
-                                                </div><!-- /.box-image -->
-                                                <div class="box-content">
-                                                    <div class="cat-name">
-                                                        <a href="#" title="">งานประกวดปลาแฟนซีดาร์พประมงน้อมเกล้าฯ</a>
-                                                    </div>
-                                                     <ul class="meta-post">
-                                            <li class="date">
-                                                <a href="#" title="">
-                                                   09 เม.ษ. 2564  สมบัติ สุขใจ
-                                                </a>
-                                            </li>
-                                            <li class="comment">
-                                                <a href="#" title="">
-                                                    10 อ่าน
-                                                </a>
-                                            <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star checked"></span>
-                                                <span class="fa fa-star "></span>
-                                            </li>    
-                                        </ul>
-                                         <div class="entry-post">
-                                            <p>กรมประมง ร่วมกับ ศูนย์การค้าฟิวเจอร์พาร์ค รังสิต จัดงานประมงน้อมเกล้า 2564 ครั้งที่ 31 เนื่องในปีมหามงคลพระราชพิธี บรมราชาภิเษก </p>
-                                           
-                                        </div>    
-                                        </div><!-- /.box-content -->
-                                        </div><!-- /.imagebox style1 -->
-                                            <div class="clearfix"></div>
-                                        </div><!-- /.rows -->
-                                    </div><!-- /.box-owl-carousel -->
-
-
-                                    
-
-
-                                </div><!-- /.owl-carousel-12 -->
                             </div><!-- /.box-wrap -->
                         </div><!-- /.col-md-12 -->
                     </div><!-- /.row -->
                 </div><!-- /.container -->
-            </section><!-- /.flat-imagebox style1 -->               
+            </section><!-- /.flat-imagebox style1 -->  
+
+
+                    
 
 
 
