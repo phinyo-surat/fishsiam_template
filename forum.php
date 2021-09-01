@@ -162,64 +162,159 @@
 
 
 
+                            <section class="main-blog">
+                <div class="container">
+                    <div class="row">
+
+                <div class="col-md-12 col-xl-12">
+                                <div class="card">
+                                    <div class="card-header  br-tr-7 br-tl-7">
+                                        <h3 class="card-title ">เลือกห้อง</h3>
+                                        <div class="card-options">
+                                            <form >
+                                                <div class="input-group">
+                                                    <input type="text" class="form-control form-control-sm" placeholder="ค้นหาห้องสนทนา..." name="s">
+                                                    <span class="input-group-btn ml-2">
+                                    <button class="btn btn-sm btn-orange" type="submit">
+                                        <i class="fa fa-search"  data-original-title="fa fa-search"></i>
+                                    </button>
+                                                    </span>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
 
 
-        <section id="header" class="header">
-                <div class="header-bottom-blog">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
+                                    <div class="card-body" >
+        
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <!-- <p class="navbar-brand" >เลือกห้องสนทนา</p> -->
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+                                    <div class="owl-carousel-3" style="width: 100%; margin-right: 30px;">
+                                
+                
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish01.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish02.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div>
 
-    <ul class="navbar-nav mr-auto">
-    
-      <li class="nav-item dropdown " >
-        <a class="btn btn-rss dropdown-toggle"  href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          เลือกห้องสนทนา
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish01.jpg" width="30px"> ปลากัด</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish02.jpg" width="30px"> ปลาอะโรวาน่า</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish03.jpg" width="30px"> ปลาหางนกยูง</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish04.jpg" width="30px"> ปลาปอมปาดัวร์</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish05.jpg" width="30px"> ปลาหมอสี</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish06.jpg" width="30px"> ปลาทอง</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish07.jpg" width="30px"> ปลาแคทฟิช</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish08.jpg" width="30px"> ปลาคาร์ฟ</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish09.jpg" width="30px"> กุ้ง</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish10.jpg" width="30px"> ปลาสวยงาม</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish11.jpg" width="30px"> ไม้น้ำ</a>
-    <a class="dropdown-item" href="#">&nbsp;&nbsp;<img src="images/icons/icon-fish12.jpg" width="30px"> อาหารปลา</a>
-          
-        </div>
-      </li> &nbsp;&nbsp;
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish03.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
 
-       <form class="form-inline my-3 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="ค้นหากระทู้" aria-label="Search">
-            <button class="button-bid btn-lg my-2 my-sm-0" type="submit">ค้นหา</button>
-        </form>
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish04.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish05.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                 <a href="#" target="_blank"><img src="assets/images/icon-fish06.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div> 
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish07.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish08.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div> 
+
+                 <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish09.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish10.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div>  
+
+                <div class="row">
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish11.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="card">
+                                <center>
+                                <a href="#" target="_blank"><img src="assets/images/icon-fish12.webp" width="200"></a>
+                                </center>
+                        </div>
+                    </div>
+                </div>    
+        
 
 
-    
-    </ul>
-
-
-       
-    </div>
-</nav>
+                                    </div><!-- /.owl-carousel-3 -->
+                             
+                                    </div>
+                                    
+                                </div>
                             </div>
                         </div>
                     </div>
-</div>
-        </section>
 
+
+
+
+
+                </section>
 
 
 
