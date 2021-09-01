@@ -21,6 +21,9 @@
         <!-- Reponsive -->
         <link rel="stylesheet" type="text/css" href="stylesheets/responsive.css">
 
+        <!-- Accordion Css -->
+        <link href="assets/plugins/accordion/accordion.css" rel="stylesheet" />
+
         <link rel="shortcut icon" href="favicon/favicon.png">
 
         <!-- Facebook Propertie -->
@@ -34,57 +37,7 @@
 
 
     </head>
-    <style>
-.button-chat {
-  background-color: #0080fe;
- 
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
 
-.button-chat:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-
-.button-call {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-call:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-.button-bid {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-bid:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-</style>
 
     <body class="header_sticky">
         <div class="boxed">
@@ -149,7 +102,7 @@
             <section class="main-blog">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-8 col-lg-9">
+                        <div class="col-md-12 col-lg-12">
                             <div class="post-wrap">
                                 <article class="main-post single">
                                     <div class="featured-post">
@@ -182,10 +135,226 @@
                                                 <span>นายอรุณชัย  พุทธเจริญ  </span>รองอธิบดีกรมประมง กล่าวว่า  “งานวันประมงน้อมเกล้าฯ ครั้งที่ 31 เป็นกิจกรรมที่จัดขึ้นโดยความร่วมมือระหว่างกรมประมง คณะแพทยศาสตร์ศิริราชพยาบาล ศูนย์การค้าฟิวเจอร์พาร์คและสเปลล์ ตลอดจนหน่วยงานทั้งภาครัฐและภาคเอกชนที่เกี่ยวข้องโดยมีวัตถุประสงค์เพื่อนำรายได้ทูลเกล้าถวายฯ สมทบทุนมูลนิธิจุฬาภรณ์ ตลอดจนเป็นการส่งเสริม อนุรักษ์ และเผยแพร่ความรู้ทางวิชาการเกี่ยวกับพันธุ์สัตว์น้ำและปลาสวยงาม และพรรณไม้น้ำชนิดต่างๆ ให้กับประชาชน เกษตรกร และเป็นการยกระดับการจัดงานก้าวสู่สากล 
                                                  Quisque id sodales libero. In nec enim nisi, in ultricies quam. Sed lacinia feugiat velit, cursus molestie lectus mollis et.
                                             </p>
-                                         
-                                           
-                                         
                                         </div><!-- /.entry-post -->
+
+
+
+
+
+
+                                        <div class="comment-area">
+                                <h2 class="comment-title">1 ความคิดเห็น</h2>
+
+
+
+
+            <div class="col-md-12  col-xl-12">
+                    <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title text-white"><a href="#" class="btn btn-orange btn-sm">ความคิดเห็นที่ 1</a></h3>
+                                        <div class="card-options">
+                                           <i class="fa fa-trash-o" data-toggle="tooltip" data-original-title="fa fa-trash-o"></i>
+                                        </div>
+                            </div>
+                    
+                    <div class="card-body">
+                        <ol class="comment-list">
+                            <li class="comment">
+                                <div class="comment-author">
+                                    <img src="images/blog/profile_29.jpg" alt="">
+                                </div>
+                            
+                            <div class="comment-text">
+                                    <div class="comment-metadata">
+                                            <div class="name">
+                                                    Mr.Neungnike : <span>31 สิงหาคม 2564 เวลา 19:33 น.</span>
+                                            </div>
+
+                            <div class="queue">
+                                <i class="fa fa-thumbs-o-up"  data-original-title="fa fa-thumbs-o-up"></i> 5 ถูกใจ
+                            </div>
+                                    </div>
+                                            
+                            <div class="comment-content">
+                                    <p>แถลงข่าวงาน “วันประมงน้อมเกล้าฯ ครั้งที่ 31” ผมว่าเป็นงานที่ดีมาก แล้วก็สมควรที่จะจัดต่อเนื่องไปเรื่อยๆ ในทุกๆปี</p> 
+                            </div>
+                                    
+                            <div class="clearfix"></div>
+                            
+                            </div>
+                            
+                            </li><!-- /.comment -->
+                        </ol><!-- /.comment-list -->
+
+
+
+                                 
+                    <div class="card-body">
+                        <div class="panel panel-default mt-2">
+                                <div class="panel-heading" role="tab" id="headingThree">
+                                        <h4 class="panel-title">
+                                                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+
+                                <i class="fa fa-chevron-down" data-original-title="fa fa-chevron-down"></i>  ดู 2 ความคิดเห็นย่อย
+                                                </a>
+
+                                        </h4>
+                                </div>
+                            
+                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+
+                    <div class="panel-body">
+                        <div class="col-md-12  col-xl-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title text-white"><a href="#" class="btn btn-orange btn-sm">ความคิดเห็นที่ 1-1</a></h3>
+                                         <div class="card-options">
+                                           <i class="fa fa-trash-o" data-toggle="tooltip" title="" data-original-title="fa fa-trash-o"></i>
+                                        </div>
+                                </div>
+
+                                    <div class="card-body">
+                                        <ol class="comment-list">
+                                    <li class="comment">
+                                        <div class="comment-author">
+                                             <img src="images/blog/profile_31.jpg" alt="">
+                                        </div>
+                                    <div class="comment-text">
+                                        <div class="comment-metadata">
+                                            <div class="name">
+                                                  Pwachira1984@gmail.com : <span>31 สิงหาคม 2564 เวลา 19:40 น.</span>
+                                            </div>
+                                            <div class="queue">
+                                                <i class="fa fa-thumbs-o-up" data-original-title="fa fa-thumbs-o-up"></i> 5 ถูกใจ
+                                            </div>
+                                        </div>
+                                    <div class="comment-content">
+                                                <p>ผมก็เห็นด้วยนะครับ แต่ควรจัดปีละ 2 ครั้งจะดีกว่า</p> 
+                                    </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    </li><!-- /.comment -->
+                                </ol><!-- /.comment-list -->
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12  col-xl-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title text-white"><a href="#" class="btn btn-orange btn-sm">ความคิดเห็นที่ 1-2</a></h3>
+                                         <div class="card-options">
+                                           <i class="fa fa-trash-o" data-toggle="tooltip" title="" data-original-title="fa fa-trash-o"></i>
+                                        </div>
+                                </div>
+
+                                    <div class="card-body">
+                                        <ol class="comment-list">
+                                    <li class="comment">
+                                        <div class="comment-author">
+                                             <img src="images/blog/profile_29.jpg" alt="">
+                                        </div>
+                                    <div class="comment-text">
+                                        <div class="comment-metadata">
+                                            <div class="name">
+                                                  Mr.Neungnike : <span>31 สิงหาคม 2564 เวลา 19:33 น.</span>
+                                            </div>
+                                            <div class="queue">
+                                                <i class="fa fa-thumbs-o-up" data-original-title="fa fa-thumbs-o-up"></i> 5 ถูกใจ
+                                            </div>
+                                        </div>
+                                    <div class="comment-content">
+                                                <p>ผมก็เห็นด้วยนะครับ แต่ควรจัดปีละ 2 ครั้งจะดีกว่า</p> 
+                                    </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    </li><!-- /.comment -->
+                                </ol><!-- /.comment-list -->
+
+                                    </div>
+                                </div>
+                            </div>
+                                           
+                                                    
+  
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                         </div>
+
+
+
+                                         <div class="col-md-12  col-xl-12">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h3 class="card-title"><i class="fa fa-commenting-o" data-toggle="tooltip" title="" data-original-title="fa fa-commenting-o"></i> ตอบกลับ</h3>
+                                        
+                                    </div>
+                                    <div class="card-body">
+                                        
+                                           <div class="form-comment">
+                                        <form action="#" method="get" accept-charset="utf-8">
+                                            
+                                            <div class="comment-form-comment">
+                                                <label id="comment-author">ข้อความ</label>
+                                                <textarea name="comment-text"></textarea>
+                                            </div><!-- /.comment-form-comment -->
+                                            <br>
+                                            <div class="btn-submit">
+                                                <button type="submit" class="btn btn-orange">ส่งข้อความ</button>
+                                            </div><!-- /.btn-submit -->
+                                        </form><!-- /.form -->
+                                    </div><!-- /.form-comment -->
+
+                                    </div>
+                                </div>
+                            </div>
+
+                          
+
+                                    </div>
+                                </div>
+                            </div>
+
+                               
+                            <div class="col-md-12  col-xl-12">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h3 class="card-title"><i class="fa fa-commenting-o" data-toggle="tooltip" title="" data-original-title="fa fa-commenting-o"></i> แสดงความคิดเห็น </h3>
+                                        
+                                    </div>
+                                    <div class="card-body">
+                                        
+                                           <div class="form-comment">
+                                        <form action="#" method="get" accept-charset="utf-8">
+                                            
+                                            <div class="comment-form-comment">
+                                                <label id="comment-author">ข้อความ</label>
+                                                <textarea name="comment-text"></textarea>
+                                            </div><!-- /.comment-form-comment -->
+                                            <br>
+                                            <div class="btn-submit">
+                                                <button type="submit" class="btn btn-orange">ส่งข้อความ</button>
+                                            </div><!-- /.btn-submit -->
+                                        </form><!-- /.form -->
+                                    </div><!-- /.form-comment -->
+
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            
+                            </div><!-- /.comment-area -->
+
+
+
+
+
+
+
                                         <div class="social-single">
                                             <span>SHARE</span>
                                             <ul class="social-list style2">
@@ -194,33 +363,10 @@
                                                         <i class="fa fa-facebook" aria-hidden="true"></i>
                                                     </a>
                                                 </li>
-                                               <!--  <li>
-                                                    <a href="#" title="">
-                                                        <i class="fa fa-twitter" aria-hidden="true"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" title="">
-                                                        <i class="fa fa-instagram" aria-hidden="true"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" title="">
-                                                        <i class="fa fa-pinterest" aria-hidden="true"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" title="">
-                                                        <i class="fa fa-dribbble" aria-hidden="true"></i>
-                                                    </a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" title="">
-                                                        <i class="fa fa-google" aria-hidden="true"></i>
-                                                    </a>
-                                                </li> -->
+                                            
                                             </ul>
                                         </div><!-- /.social-single -->
+
                                     </div><!-- /.content-post -->
                                 </article><!-- /.main-post single -->
                             </div><!-- /.post-wrap -->
@@ -238,94 +384,16 @@
                                     </li>
                                 </ul><!-- /.flat-pagination style2 -->
                             </div><!-- /.blog-pagination single -->
-                            <div class="comment-area">
-                                <h2 class="comment-title">1 Comment</h2>
-                                <ol class="comment-list">
-                                    <li class="comment">
-                                        <div class="comment-author">
-                                            <img src="images/blog/comment-01.jpg" alt="">
-                                        </div>
-                                        <div class="comment-text">
-                                            <div class="comment-metadata">
-                                                <div class="name">
-                                                    Ali Tufan : <span>April 3, 2016</span>
-                                                </div>
-                                                <div class="queue">
-                                                    <i class="fa fa-star" aria-hidden="true"></i>
-                                                    <i class="fa fa-star" aria-hidden="true"></i>
-                                                    <i class="fa fa-star" aria-hidden="true"></i>
-                                                    <i class="fa fa-star" aria-hidden="true"></i>
-                                                    <i class="fa fa-star" aria-hidden="true"></i>
-                                                </div>
-                                            </div>
-                                            <div class="comment-content">
-                                                <p>
-                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard 
-                                                    took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
-                                                </p> 
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                    </li><!-- /.comment -->
-                              
 
-                                    
-                                </ol><!-- /.comment-list -->
-                                <div class="comment-respond">
-                                    <h2 class="comment-reply-title">แสดงความคิดเห็น</h2>
-                                    <p>Your email address will not be published. Required fields are marked *</p>
-                                    <div class="form-comment">
-                                        <form action="#" method="get" accept-charset="utf-8">
-                                            <div class="comment-form-name">
-                                                <label id="name-author">Name</label>
-                                                <input type="text" name="name-author" value="" placeholder="Ali">
-                                            </div><!-- /.comment-form-name -->
-                                            <div class="comment-form-email">
-                                                <label id="email-author">Email</label>
-                                                <input type="text" name="email-author" value="">
-                                            </div><!-- /.comment-form-email -->
-                                            <div class="comment-form-comment">
-                                                <label id="comment-author">Comment</label>
-                                                <textarea name="comment-text"></textarea>
-                                            </div><!-- /.comment-form-comment -->
-                                            <div class="btn-submit">
-                                                <button type="submit">Post Comment</button>
-                                            </div><!-- /.btn-submit -->
-                                        </form><!-- /.form -->
-                                    </div><!-- /.form-comment -->
-                                </div><!-- /.comment-respond -->
-                            </div><!-- /.comment-area -->
+
+
+
+
+
+
+                            
                         </div><!-- /.col-md-8 col-lg-9 -->
-                        <div class="col-md-4 col-lg-3">
-                            <div class="sidebar left">
-                                <div class="widget widget-search">
-                                    <form action="#" method="get" accept-charset="utf-8">
-                                        <input type="text" name="widget-search" placeholder="Search">
-                                    </form>
-                                </div><!-- /.widget widget-search -->
-                                <div class="widget widget-categories">
-                                    <div class="widget-title">
-                                        <h3>ประเภทบทความ</h3>
-                                    </div>
-                                     <ul class="cat-list">
-                                        <li>
-                                            <a href="#" title="">ประกวดปลาสวยงาม<span>(03)</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" title="">ข่าวสารเกี่ยวกับปลา<span>(19)</span></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" title="">ข่าวสาร Admin<span>(56)</span></a>
-                                        </li>
-                                       
-                                    </ul>
-                                </div><!-- /.widget widget-categories -->
-
-                               
-
-                               
-                            </div><!-- /.sidebar left -->
-                        </div><!-- /.col-md-4 col-lg-3 -->
+                      
                     </div><!-- /.row -->
                 </div><!-- /.container -->
             </section><!-- /.main-blog -->
@@ -377,6 +445,17 @@
         <script type="text/javascript" src="javascript/jquery.countdown.js"></script>
 
         <script type="text/javascript" src="javascript/main.js"></script>
+        <!---Accordion Js-->
+        <script src="assets/plugins/accordion/accordion.min.js"></script>
+            <!-- Accordion Js-->
+        <script>
+            $(function(e) {
+                $(".demo-accordion").accordionjs();
+                // Demo text. Let's save some space to make the code readable. ;)
+                $('.acc_content').not('.nodemohtml').html('<p>Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Fusce aliquet neque et accumsan fermentum. Aliquam lobortis neque in nulla  tempus, molestie fermentum purus euismod.</p>');
+            });
+        </script>
+
 
     </body> 
 </html>
