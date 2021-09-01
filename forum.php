@@ -477,7 +477,7 @@
                             <h3>แหล่งข้อมูลและบทความ</h3>
                         </div>
                         </div> 
-                        <div class="col-md-8 col-lg-9">
+                        <div class="col-md-12 col-lg-12">
                             <div class="post-wrap">
                                 <article class="main-post style1">
                                     <div class="featured-post">

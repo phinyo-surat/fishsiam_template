@@ -5807,7 +5807,7 @@ div.dataTables_wrapper div.dataTables_filter input {
 .card-body {
 	-ms-flex: 1 1 auto;
 	flex: 1 1 auto;
-	padding: 1.5rem;
+	padding: 0.6rem;
 }
 .card-title {
 	margin-bottom: 1.5rem;
@@ -11321,7 +11321,7 @@ a.icon:hover {
 	-ms-flex: 1 1 auto;
 	flex: 1 1 auto;
 	margin: 0;
-	padding: 1.5rem 1.5rem;
+	padding: 0.8rem 0.8rem;
 	position: relative;
 }
 .card-body+.card-body {
