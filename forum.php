@@ -35,57 +35,7 @@
 
 
     </head>
-    <style>
-.button-chat {
-  background-color: #0080fe;
- 
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
 
-.button-chat:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-
-.button-call {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-call:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-.button-bid {
-  background-color: orange;
-
-  color: #fff;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.button-bid:hover {
-  background-color: orange;
-  color: #fff;
-}
-
-</style>
 
     <body class="header_sticky">
         <div class="boxed">
@@ -356,7 +306,7 @@
                 <h2>
                     <a href="#" target="_blank">
                         <i >
-                        </i>แหล่งแลกเปลี่ยนความรู้ด้านปลา ที่รวบรวมปลาทุกสายพันธุ์เอาไว้ในที่ Thesiamfish.com
+                        </i><font color="#2d2d2d">แหล่งแลกเปลี่ยนความรู้ด้านปลา ที่รวบรวมปลาทุกสายพันธุ์เอาไว้ในที่ Thesiamfish.com</font>
                     </a>
                 </h2>
             </div>
@@ -365,12 +315,9 @@
             </div>
                     </a>
             <div class="pt-list-item__info">
-                    <a href="undefined">
-            <div class="img-thumbnail img-circle" style="background-image:url(#)">
-            </div>
-                    </a>
+                  
             <h5 class="pt-li_ads">
-                <a href="javascript:void(0);" style="text-decoration: none;">Thesiamfish.com</a>
+                <a href="#" ><font color="#2d2d2d">Thesiamfish.com</font></a>
             </h5>
             </div>
         </li>
@@ -381,9 +328,8 @@
         <li class="pt-list-item">
             <div class="pt-list-item__title">
                 <h2>
-                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                        <i class="pantip-icons md-18 pt-ic-topic_type_question"></i>
-                       ปลากัดสวยงามหางสวยงามดูยังไงครับ...?
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1"> 
+                        <font color="#2d2d2d">ปลากัดสวยงามหางสวยงามดูยังไงครับ...?</font> 
                     </a>
                 </h2>
             </div>
@@ -393,30 +339,66 @@
                         </div>
                     </a>
                         <div class="pt-list-item__info">
-                            <a href="https://pantip.com/profile/5875316" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                                <div class="img-thumbnail img-circle" style="background-image:url(https://p.ptcdn.info/610/013/000/5875316_16258965273883_m.jpg)">
-                                </div>
-                            </a>
-
-                            <h5><a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                                สมาชิกหมายเลข 5875316
+                            <h5>
+                                <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                <font color="#2d2d2d">สมาชิกหมายเลข 5875316</font>  
                                 </a>
                             </h5>
-                            <span title="28 สิงหาคม 2564 เวลา 12:23 น.">2 ชั่วโมง</span>
+                            <span><font color="#2d2d2d">2 ชั่วโมง</font></span>
                         </div>
-                            <div class="pt-list-item__stats"><span class="pt-li_stats-comment">
-                               <i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></span>
+
+
+                            <div class="pt-list-item__stats">
+                                <span class="pt-li_stats-comment">
+                                    <font color="#2d2d2d"><i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></font>
+                               </span>
                                 <span class="pt-li_stats-vote">
-                                <i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></span>     
+                                <font color="#2d2d2d"><i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></font>
+                                </span>     
+                            </div>
+        </li>
+
+        
+
+
+        <li class="pt-list-item">
+            <div class="pt-list-item__title">
+                <h2>
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1"> 
+                        <font color="#2d2d2d">ปลากัดสวยงามหางสวยงามดูยังไงครับ...?</font> 
+                    </a>
+                </h2>
+            </div>
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                        <div class="pt-list-item__img img-thumbnail lazyloaded" style="background-image: url(&quot;https://fishsiam.thailoop.pro/images/icons/img-blog01.jpg&quot;);">
+                            
+                        </div>
+                    </a>
+                        <div class="pt-list-item__info">
+                            <h5>
+                                <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                <font color="#2d2d2d">สมาชิกหมายเลข 5875316</font>  
+                                </a>
+                            </h5>
+                            <span><font color="#2d2d2d">2 ชั่วโมง</font></span>
+                        </div>
+
+
+                            <div class="pt-list-item__stats">
+                                <span class="pt-li_stats-comment">
+                                    <font color="#2d2d2d"><i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></font>
+                               </span>
+                                <span class="pt-li_stats-vote">
+                                <font color="#2d2d2d"><i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></font>
+                                </span>     
                             </div>
         </li>
 
         <li class="pt-list-item">
             <div class="pt-list-item__title">
                 <h2>
-                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                        <i class="pantip-icons md-18 pt-ic-topic_type_question"></i>
-                       ปลากัดสวยงามหางสวยงามดูยังไงครับ...?
+                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1"> 
+                        <font color="#2d2d2d">ปลากัดสวยงามหางสวยงามดูยังไงครับ...?</font> 
                     </a>
                 </h2>
             </div>
@@ -426,54 +408,22 @@
                         </div>
                     </a>
                         <div class="pt-list-item__info">
-                            <a href="https://pantip.com/profile/5875316" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                                <div class="img-thumbnail img-circle" style="background-image:url(https://p.ptcdn.info/610/013/000/5875316_16258965273883_m.jpg)">
-                                </div>
-                            </a>
-
-                            <h5><a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                                สมาชิกหมายเลข 5875316
+                            <h5>
+                                <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
+                                <font color="#2d2d2d">สมาชิกหมายเลข 5875316</font>  
                                 </a>
                             </h5>
-                            <span title="28 สิงหาคม 2564 เวลา 12:23 น.">2 ชั่วโมง</span>
+                            <span><font color="#2d2d2d">2 ชั่วโมง</font></span>
                         </div>
-                            <div class="pt-list-item__stats"><span class="pt-li_stats-comment">
-                               <i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></span>
-                                <span class="pt-li_stats-vote">
-                                <i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></span>     
-                            </div>
-        </li>
 
-        <li class="pt-list-item">
-            <div class="pt-list-item__title">
-                <h2>
-                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                        <i class="pantip-icons md-18 pt-ic-topic_type_question"></i>
-                       ปลากัดสวยงามหางสวยงามดูยังไงครับ...?
-                    </a>
-                </h2>
-            </div>
-                    <a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                        <div class="pt-list-item__img img-thumbnail lazyloaded" style="background-image: url(&quot;https://fishsiam.thailoop.pro/images/icons/img-blog01.jpg&quot;);">
-                            
-                        </div>
-                    </a>
-                        <div class="pt-list-item__info">
-                            <a href="https://pantip.com/profile/5875316" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                                <div class="img-thumbnail img-circle" style="background-image:url(https://p.ptcdn.info/610/013/000/5875316_16258965273883_m.jpg)">
-                                </div>
-                            </a>
 
-                            <h5><a href="#" target="_blank" class="gtm-realtime-link gtm-realtime-page1">
-                                สมาชิกหมายเลข 5875316
-                                </a>
-                            </h5>
-                            <span title="28 สิงหาคม 2564 เวลา 12:23 น.">2 ชั่วโมง</span>
-                        </div>
-                            <div class="pt-list-item__stats"><span class="pt-li_stats-comment">
-                               <i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></span>
+                            <div class="pt-list-item__stats">
+                                <span class="pt-li_stats-comment">
+                                    <font color="#2d2d2d"><i class="fa fa-comments-o" data-toggle="tooltip" title="fa fa-bicycle"> 10</i></font>
+                               </span>
                                 <span class="pt-li_stats-vote">
-                                <i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></span>     
+                                <font color="#2d2d2d"><i class="fa fa-thumbs-o-up" data-toggle="tooltip" title="fa fa-bicycle"> 7</i></font>
+                                </span>     
                             </div>
         </li>
 

@@ -194,24 +194,6 @@
         
 
 
-     
-
-    
-
-          <!-- <div class="row">
-            <div class="col-sm-3" align="center">สวัสดร</div>
-             <div class="col-sm-3" align="center">สวัสดร</div>
-         <div class="col-sm-3" align="center">สวัสดร</div>
-          <div class="col-sm-3" align="center">สวัสดร</div>
-
-</div> -->
-
-
-            
-
-
-
-
 
 
 
